@@ -8,9 +8,9 @@ This page provides a tentative schedule for the course.
 CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html). Pearson, 7th Edition, 2017, ISBN-13: 978-0-13-359414-0
 
 
->  Date    | Lab Topics | Reading | File(s) |
+>  Date    | Topic | Reading | File(s) |
 > -------- | ---------- | ------- | ------- |
-> Aug 27   | | CN: 1.1 - 1.3 | 
+> Aug 27   | Intro to Computer Networks and the Internet | CN: 1.1 - 1.3 | 
 
 <!--
 > Aug 29   | [Lab 2: Basic Geometry](../labs/lab02.html) <br /> [Lab 3: Linear Algebra](../labs/lab03.html)| OPG: Ch. 5 <br /> OP: Ch. 5 | [CS370_Lab02.zip](../labs/src/CS370_Lab02.zip) <br /> [CS370_Lab03.zip](../labs/src/CS370_Lab03.zip)
