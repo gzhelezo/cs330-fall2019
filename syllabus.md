@@ -79,12 +79,44 @@ Reading assignments
 
 Readings from your text book will be assigned throughout the semester. You will find the readings listed in the Course Schedule</a>. <strong>You are encouraged to read the scheduled material before coming to class.</strong>
 
+
+Homework Assignments
+-----------------
+
+Homework assignments will be based on the lab activities performed during class and may include both written and programming components. Collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
+
+**You MUST make a legitimate attempt to complete every homework assignment.** I reserve the right to fail any student who does not make a good faith effort to complete all of the homework assignments.
+
+Late assignments will be marked down 20% per day late. **No credit will be given for assignments that are more than three (3) days late.**
+
+Programs will be graded based on the following criteria:
+
+> 4: **Superior.** The program extends the basic requirements significantly by implementing additional graphical features covered in the text and other resources.
+>
+> 3-3.5: **Good.** The program goes beyond the basic requirements by embellishing the final output using techniques discussed in class.
+>
+> 2-2.5: **Average.** The program meets only the basic requirements of the assignment.
+>
+> 1: **Below Average.** The program produces mostly incorrect output or shows little attempt at a solution to the problem.
+>
+> 0: **Failure.** The program does not execute.
+
 Posting and submission of assignments and labs
 -----------------
 
 Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs330-fall2019/](<https://ycpcs.github.io/cs330-fall2019/>). Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.</p>
 <p>Most labs will be done via Wireshark: <a href="https://www.wireshark.org/">https://www.wireshark.org/</a>. Wireshark is installed in the lab.</p>
 
+Exams
+-----------------
+
+<strong>Exams will be open-book, closed-notes.</strong> They will last approximately 60 minutes and will be administered at the beginning of the class period.
+
+<strong>Exams may include a programming component.</strong> The last half of the class may be used for instruction and/or laboratory work. 
+<strong>A total of three exams will be administered. The lowest scoring exam will be dropped!</strong>
+
+<strong>No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.</strong>
+ 
 Academic Integrity
 -----------------
 
@@ -133,6 +165,11 @@ Communication Standards
 -----------------
 
 York College recognizes the importance of effective communication in all disciplines and careers. Therefore, students are expected to competently analyze, synthesize, organize, and articulate course material in papers, examinations and presentations. In addition, students should know and use communication skills current to their field of study, recognize the need for revision as part of their writing process, and employ standard conventions of English usage in both writing and speaking. Students may be asked to further revise assignments that do not demonstrate effective use of these communication skills.
+
+Auditing
+-----------------
+
+I expect some effort and commitment from students auditing the course. Therefore I require that you appear for all the labs and exams in the course. You are not required to turn in the programming assignments. Of course, you are welcome to do more, but you must meet this minimum requirement. 
 
 Disability accomodation
 -----------------
