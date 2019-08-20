@@ -65,7 +65,7 @@ Your overall grade for the course will be determined as follows:
 -   Homework: 15% <strong>(*)</strong>
 -   Exams (2 midterms and 1 cumulative final exam): 60% <strong>(†)</strong>
 
-<p><strong>(*)</strong> You must demonstrate significant effort on all homework assignments in order to pass the course. The very important Outcome CO12 (Use top-down design to decompose complex problems into simpler problems) cannot be assessed based on exams alone. This will be demonstrated via homework assignments. Failure to demonstrate this outcome on homework assignments will be grounds for failure even with a high exam average.</p>
+<p><strong>(*)</strong> You must demonstrate significant effort on all homework assignments in order to pass the course.</p>
 
 <p><strong>(†)</strong> You must pass (receive a grade of 70 or higher) on at least one exam, <em>and</em> have an average of 60 or higher on your two highest exam grades, in order to receive a passing grade for the course.</p>
 
