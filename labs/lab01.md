@@ -1,12 +1,12 @@
 ---
 layout: default
-course_number: CS497
-title: "Lab 2 - Footprint"
+course_number: CS330
+title: "Lab 1 - Network Footprinting"
 ---
 
-# Lab 2 - Footprint  
+# Lab 1 - Network Footprint  
 
-This lab exercise will provide the students hands on experience working with basic tools to carryout network reconnaissance (called footprinting). A short report will be prepared describing the results of exercise and what the student learned from the lab.
+This lab exercise will provide the students hands on experience working with basic tools to carryout network reconnaissance (called network footprinting). A short report will be prepared describing the results of exercise and what the student learned from the lab.
 
 ### Task 1: nslookup
 
