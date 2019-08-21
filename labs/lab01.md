@@ -13,13 +13,13 @@ This lab exercise will provide the students hands on experience working with bas
 ```nslookup``` is a network administration command-line tool available for many computer operating systems for querying the Domain Name System to obtain domain name or IP address mapping or for any other specific DNS record.
 
 1. In Windows, open a command prompt.
-2. Type ```nslookup www.github.com``` and then press Enter.
+2. Type ```nslookup www.ycpcs.github.io``` and then press Enter.
 3. What information is displayed? Take a screenshot for your report.
 4. Now type in the IP address and see what is displayed. Record your findings.
 5. Repeat steps 1-3 for the following URLs:<br>
     a. ```www.google.com```<br>
-    b. ```www.yahoo.com```<br>
-    c. ```www.facebook.com```<br>
+    b. ```www.amazon.com```<br>
+    c. ```www.microsoft.com```<br>
 6. How useful is this tool?
 
 ### Task 2: ping
@@ -27,7 +27,7 @@ This lab exercise will provide the students hands on experience working with bas
 ```ping``` is a computer network administration software utility used to test the reachability of a host on an Internet Protocol network. 
 
 1. In Windows, open a command prompt.
-2. Type ```ping www.github.com``` and then press Enter.
+2. Type ```ping www.ycpcs.github.io``` and then press Enter.
 3. Note the responses back. Make sure the IP address or URL is reachable by getting a
 response. Note the response provides information on the number of packets generated
 and received, along with the time expired between the transmission and reception of
@@ -35,9 +35,9 @@ each. It also provides basics statistics on the minimum, maximum, and average pa
 times.
 4. Record your findings and take a screenshot for your report.
 5. Repeat steps 1-4 for the following URLs:<br>
-    a. ```www.yahoo.com```<br>
-    b. ```www.google.com```<br>
-    c. ```www.facebook.com```<br>
+    a. ```www.google.com```<br>
+    b. ```www.amazon.com```<br>
+    c. ```www.microsoft.com```<br>
 6. How useful is this tool?
 
 ### Task 3: tracert
@@ -66,7 +66,6 @@ times.
 - What was the least interesting task?
 - How useful can these tasks be to an attacker?
 - What did you learn from this lab?
-
 
 ### Grading
 
