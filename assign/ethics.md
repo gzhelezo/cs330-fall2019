@@ -4,7 +4,7 @@ course_number: CS330
 title: "Ethics"
 ---
 
-Cyber Security Ethics
+Network Applications and Protocols Ethics
 ====================================
 
 **Fall 2019**
