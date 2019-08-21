@@ -8,7 +8,7 @@ title: "Assignment 1: Ethics"
 
 ### Ethics Guide
 
-Read and sign the [ethics](ethics.html) portion of the syllabus. 
+Read and sign the [ethics](../assign/ethics.html) portion of the syllabus. 
 
 ### Submit #
 
