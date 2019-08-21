@@ -11,10 +11,11 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >  Week    | Date     | Topic      | Readings | Assignments |
 > -------- | -------- | ---------- | -------  | ------- |
 > 1 | Aug 27   | Intro to Computer Networks and the Internet | CN: 1.1 - 1.3 | 
-> 1 | Aug 29   | Intro to Computer Networks and the Internet | CH: 1.4 - 1.8 |
-> 2 | Sept 3   | Application Layer: HTTP | CN: 1.1 - 1.3 | 
-> 2 | Sept 5   | Application Layer: FTP, SMTP | CH: 1.4 - 1.8 |
-
+> 1 | Aug 29   | Intro to Computer Networks and the Internet | CN: 1.4 - 1.8 |
+> 2 | Sept 3   | Application Layer: HTTP | CN: 2.1 - 2.2 | 
+> 2 | Sept 5   | Application Layer: FTP, SMTP | CN: 2.3 - 2.4 |
+> 3 | Sept 10  | Application Layer: DNS | CN 2.5 |
+> 3 | Sept 12  | Application Layer: P2P, Sockets | CN 2.6 - 2.8 |
 
 <!--
 > Aug 29   | [Lab 2: Basic Geometry](../labs/lab02.html) <br /> [Lab 3: Linear Algebra](../labs/lab03.html)| OPG: Ch. 5 <br /> OP: Ch. 5 | [CS370_Lab02.zip](../labs/src/CS370_Lab02.zip) <br /> [CS370_Lab03.zip](../labs/src/CS370_Lab03.zip)
