@@ -9,7 +9,7 @@ Network Applications and Protocols Ethics
 
 **Fall 2019**
 
-Even though this is an introductory course in Computer Network Applications and Protocols, you will be exposed to knowledge and techniques that can be used for hacking, penetrating and attacking various computer systems.
+Even though this is an introductory course in Network Applications and Protocols, you will be exposed to knowledge and techniques that can be used for hacking, penetrating and attacking various computer systems.
 
 We will be discussing several attacks, explorations and implementations in this class, some of them quite nasty. 
 
