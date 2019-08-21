@@ -5,5 +5,6 @@ title: "Assignments"
 
 This page links to programming assignments.
 
-> Assignment | File | Written Due | Program Due | Solutions |
-> ---------- | ---- | ----------- | ----------- | --------- |
+> Assignment | File | Due
+> ---------- | ---- | ---
+> [Ethics Guide](assign01.html) | n/a | Aug 30, 2019
