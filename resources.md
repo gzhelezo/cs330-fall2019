@@ -13,7 +13,7 @@ This page contains links to useful resources.
 -   [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview) is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.
 -   [Whois](https://docs.microsoft.com/en-us/sysinternals/downloads/whois) performs the registration record for the domain name or IP address that you specify.
 -   [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
--   [Postman](https://www.getpostman.com/]) API development environment.
+-   [Postman](https://www.getpostman.com/) API development environment.
 -   [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
 
 Penetration Testing
