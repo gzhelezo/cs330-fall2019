@@ -4,7 +4,7 @@ course_number: CS330
 title: "Lab 1 - Network Footprinting"
 ---
 
-# Lab 1 - Network Footprint  
+# Lab 1 - Into to Network Footprining 
 
 This lab exercise will provide the students hands on experience working with basic tools to carryout network reconnaissance (called network footprinting). A short report will be prepared describing the results of exercise and what the student learned from the lab.
 
