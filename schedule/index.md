@@ -8,56 +8,56 @@ This page provides a tentative schedule for the course.
 CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html). Pearson, 7th Edition, 2017, ISBN-13: 978-0-13-359414-0
 
 
->  Week    | Date     | Topic        | Readings   | Assignments | Labs                       |
-> -------- | -------- | ------------ | ---------- | ----------- | -------------------------- |
-> 1  | Aug 27   | Introduction and Course Overview | | [Ethics](../assign/assighn01.html) |
-> 1  | Aug 29   | Intro to Computer Networks and the Internet | CN: 1.1 - 1.3 | | Wireshark Lab - Intro |
+>  Week    | Date     | Topic        | Readings   | Labs                                  
+> -------- | -------- | ------------ | ---------- | ------------------------------------- 
+> 1  | Aug 27   | Introduction and Course Overview | | [Ethics](../assign/assighn01.html) 
+> 1  | Aug 29   | Intro to Computer Networks and the Internet | CN: 1.1 - 1.3 | Wireshark Lab - Intro 
 > | | | |
-> 2  | Sept 3   | Intro to Computer Networks and the Internet | CN: 1.4 - 1.8 | | |  
-> 2  | Sept 5   | Application Layer: HTTP | CN: 2.1 - 2.2 | | Wireshark Lab - HTTP |
+> 2  | Sept 3   | Intro to Computer Networks and the Internet | CN: 1.4 - 1.8 |
+> 2  | Sept 5   | Application Layer: HTTP | CN: 2.1 - 2.2 | Wireshark Lab - HTTP 
 > | | | |
-> 3  | Sept 10  | Application Layer: FTP, SMTP | CN: 2.3 | | | 
-> 3  | Sept 12  | Application Layer: DNS | CN 2.4 | | Wireshark - DNS |
+> 3  | Sept 10  | Application Layer: FTP, SMTP | CN: 2.3 |  
+> 3  | Sept 12  | Application Layer: DNS | CN 2.4 | Wireshark - DNS 
 > | | | |
-> 4  | Sept 17  | Application Layer: P2P, Sockets | CN 2.5 - 2.8 | | |
-> 4  | Sept 19  | Transport Layer: Design Issues, UDP | CN: 3.1 - 3.3 | | Wireshark Lab - UDP |
+> 4  | Sept 17  | Application Layer: P2P, Sockets | CN 2.5 - 2.8 | 
+> 4  | Sept 19  | Transport Layer: Design Issues, UDP | CN: 3.1 - 3.3 | Wireshark Lab - UDP 
 > | | | 
-> 5  | Sept 24  | Transport Layer: Reliable Data Transfer | CN: 3.4 | | |
-> 5  | Sept 26  | Transport Layer: TCP | CN: 3.5 | | Wireshark Lab - TCP | | |
+> 5  | Sept 24  | Transport Layer: Reliable Data Transfer | CN: 3.4 | 
+> 5  | Sept 26  | Transport Layer: TCP | CN: 3.5 | Wireshark Lab - TCP 
 > | | | 
-> 6  | Oct 1    | Transport Layer: Congestion Control | CN: 3.6 - 3.8 | | |
-> 6  | Oct 3    | Exam Review | CN: 1.1 - 3.8 | | | 
+> 6  | Oct 1    | Transport Layer: Congestion Control | CN: 3.6 - 3.8 | 
+> 6  | Oct 3    | Exam Review | CN: 1.1 - 3.8 | 
 > | | | |
-> 7  | Oct 8    | **Exam 1** | | |
-> 7  | Oct 10   | | | |
+> 7  | Oct 8    | **Exam 1** | |
+> 7  | Oct 10   | | |
 > | | | |
-> 8  | Oct 15   | **NO CLASS - Fall Break** | | |
-> 8  | Oct 17   | | | |
-> 9  | Oct 22   | | | |
-> 9  | Oct 24   | | | |
+> 8  | Oct 15   | **NO CLASS - Fall Break** | | 
+> 8  | Oct 17   | | |
+> 9  | Oct 22   | | |
+> 9  | Oct 24   | | |
 > | | | |
-> 10 | Oct 29   | | | | 
-> 10 | Oct 31   | | | | 
+> 10 | Oct 29   | | | 
+> 10 | Oct 31   | | | 
 > | | | |
-> 11 | Nov 5    | | | | 
-> 11 | Nov 7    | | | | 
+> 11 | Nov 5    | | | 
+> 11 | Nov 7    | | | 
 > | | | |
-> 12 | Nov 12   | **Exam 2** | CN: 4.1 - 5.8 | | | | 
-> 12 | Nov 14   | | | |
+> 12 | Nov 12   | **Exam 2** | CN: 4.1 - 5.8 |  
+> 12 | Nov 14   | | |
 > | | | |
-> 13 | Nov 19   | | | | 
-> 13 | Nov 21   | | | |
-> | | | | |
-> 14 | Nov 26   | | | | 
-> 14 | Nov 28   | **NO CLASS - Thanksgiving Break** | | |
+> 13 | Nov 19   | | | 
+> 13 | Nov 21   | | |
+> | | | | 
+> 14 | Nov 26   | | |  
+> 14 | Nov 28   | **NO CLASS - Thanksgiving Break** |
 > | | | |
-> 15 | Dec 3    | | | |
-> 15 | Dec 5    | | | |
+> 15 | Dec 3    | | |
+> 15 | Dec 5    | | |
 > | | | |
-> 16 | Dec 10   | Exam Review | CN: 1.1 - 8.10 | |
-> 16 | Dec 12   | **FINAL EXAM** | | |
+> 16 | Dec 10   | Exam Review | CN: 1.1 - 8.10 |
+> 16 | Dec 12   | **FINAL EXAM** | |
 > | | | |
-> 17 | Dec 14   | **FINAL EXAM** | | |
+> 17 | Dec 14   | **FINAL EXAM** | |
 
 <!--
 > 7  | Oct 10   | Network Layer: Overview, Router Architectures | CN: 4.1 - 4.3 |
