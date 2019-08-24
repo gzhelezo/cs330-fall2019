@@ -35,3 +35,4 @@ Supplemental Material
 -  [A RESTful Tutorial](https://www.restapitutorial.com/)
 -  [OWASP Cheat Sheet Series V2](https://cheatsheetseries.owasp.org/)
 -  [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
+-  [Interactive Exercises](http://gaia.cs.umass.edu/kurose_ross/interactive/)
