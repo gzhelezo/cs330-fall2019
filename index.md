@@ -19,5 +19,5 @@ All information about the course will be posted here.
 
 ## News
 
-* **Aug 29** &mdash; [Assignment 1](assign/assign01.html) Due
+* **Aug 29** - [Assignment 1](assign/assign01.html) Due
 * **Aug 27** - Welcome back!
