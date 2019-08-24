@@ -25,7 +25,8 @@ Penetration Testing
 -  [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
 -  [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** for network administrators and network hackers.
 -  [Ettercap](http://www.ettercap-project.org/ettercap/) is a comprehensive suite for man in the middle attacks.
-
+-  [The Metasploit Project](https://www.metasploit.com/) is the world’s most used penetration testing framework.
+  
 Supplemental Material
 ------------------------------------
 
@@ -33,3 +34,4 @@ Supplemental Material
 -  [High Performance Browser Networking](https://hpbn.co/)
 -  [A RESTful Tutorial](https://www.restapitutorial.com/)
 -  [OWASP Cheat Sheet Series V2](https://cheatsheetseries.owasp.org/)
+-  [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
