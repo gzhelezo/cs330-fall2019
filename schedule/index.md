@@ -27,7 +27,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > | | | |
 > 6  | Oct 1    | Transport Layer: Congestion Control | CN: 3.6 - 3.8 |
 > 6  | Oct 3    | Exam Review | CN: 1.1 - 3.8 |
-> | | |
+> | | ||
 > 7  | Oct 8    | **Exam 1** | |
 > 7  | Oct 10   | | | 
 > | | | |
@@ -78,7 +78,6 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 15 | Dec 5    | | |
 > 16 | Dec 10   | Exam Review | CN: 1.1 - 8.10 |
 > 16 | Dec 12   | **FINAL EXAM** | |
-> 17 | Dec 14   | **FINAL EXAM** | |
 -->
 **Disclaimer:** This syllabus is subject to change by the instructor.
 
