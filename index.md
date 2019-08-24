@@ -15,6 +15,7 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 * [Resources](resources.html)
 * [Syllabus](syllabus.html)
+* [Ethics](assign/ethics.md)
 
 ## News
 
