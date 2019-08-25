@@ -49,5 +49,5 @@ RFC
 - Address Resolution Protocol [rfc826](https://tools.ietf.org/html/rfc826)
 - User Datagram Protocol [rfc768](https://tools.ietf.org/html/rfc768)
 - Internet Protocol version 4 [rfc790](https://tools.ietf.org/html/rfc790) [rfc791](https://tools.ietf.org/html/rfc791)
-- Internet Protocol version 6 [rfc4291](https://tools.ietf.org/html/rfc4291)
-- Dynamic Host Configuration Protocol [rfc8200](https://tools.ietf.org/html/rfc8200) [rfc2131](https://tools.ietf.org/html/rfc2131)
+- Internet Protocol version 6 [rfc4291](https://tools.ietf.org/html/rfc4291) [rfc8200](https://tools.ietf.org/html/rfc8200)
+- Dynamic Host Configuration Protocol [rfc2131](https://tools.ietf.org/html/rfc2131)
