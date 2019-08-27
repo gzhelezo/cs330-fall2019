@@ -22,3 +22,11 @@ Acting lawfully and ethically is your responsibility. Carefully read the Compute
 Please review the college’s policy on [Acceptable Use](https://itkb.ycp.edu/article.php?id=1068) for guidelines concerning proper use of information technology.
 
 As a member of the College, you are required to abide by these policies.
+
+
+Name: 
+
+Date:
+
+Signature:
+
