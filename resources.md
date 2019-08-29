@@ -37,6 +37,8 @@ Supplemental Material
 -  [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
 -  [Interactive Exercises](http://gaia.cs.umass.edu/kurose_ross/interactive/)
  - [CERN 2019 WorldWideWeb Rebuild](https://worldwideweb.cern.ch/browser/)
+ - Preventing Cross-Site Request Forgery (**CSRF**) Attacks in [ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
+ - Prevent Cross-Site Scripting (**XSS**) in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-2.2)
 
 RFC 
 -----------------------------------
