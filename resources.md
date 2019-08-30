@@ -35,6 +35,7 @@ Supplemental Material
 -  [A RESTful Tutorial](https://www.restapitutorial.com/)
 -  [OWASP Cheat Sheet Series V2](https://cheatsheetseries.owasp.org/)
 -  [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
+    - Five More Hackers Become Millionaires on [HackerOne](https://www.bleepingcomputer.com/news/security/five-more-hackers-become-millionaires-on-hackerone/)
 -  [Interactive Exercises](http://gaia.cs.umass.edu/kurose_ross/interactive/)
  - [CERN 2019 WorldWideWeb Rebuild](https://worldwideweb.cern.ch/browser/)
  - Preventing Cross-Site Request Forgery (**CSRF**) Attacks in [ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
