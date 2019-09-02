@@ -8,3 +8,4 @@ This page links to programming assignments.
 > Assignment | File | Due
 > ---------- | ---- | ---
 > [Ethics Guide](assign01.html) | n/a | Aug 30, 2019
+> [Chapter 1 Homework](assign02.html) | n/a | 
