@@ -22,7 +22,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 4  | Sept 17  | Application Layer: [P2P, Sockets](../slides/lecture5_application_layer_P2P_sockets.pdf) | CN 2.5 - 2.8 | 
 > 4  | Sept 19  | Transport Layer: Design Issues, UDP | CN: 3.1 - 3.3 | Wireshark Lab - [UDP](../labs/Wireshark_UDP_v7.0.pdf)
 > | | | 
-> 5  | Sept 24  | Transport Layer: Reliable Data Transfer | CN: 3.4 | 
+> 5  | Sept 24  | Transport Layer: Reliable Data Transfer | CN: 3.4 | [Reliable Data Transfer](../labs/lab02.html)
 > 5  | Sept 26  | Transport Layer: TCP | CN: 3.5 | Wireshark Lab - [TCP](../labs/Wireshark_TCP_v7.0.pdf)
 > | | | 
 > 6  | Oct 1    | Transport Layer: Congestion Control | CN: 3.6 - 3.8 | 
