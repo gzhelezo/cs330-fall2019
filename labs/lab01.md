@@ -16,7 +16,7 @@ This lab exercise will provide the students hands on experience working with bas
 2. Type ```nslookup www.ycpcs.github.io``` and then press Enter.
 3. What information is displayed? Take a screenshot for your report.
 4. Now type in the IP address and see what is displayed, e.g. ```nslookup 127.0.0.1```.  Record your findings. Can you find one that works?
-5. Repeat steps 1-3 for the following URLs:<br>
+5. Repeat steps 2-3 for the following URLs:<br>
     a. ```www.google.com```<br>
     b. ```www.amazon.com```<br>
     c. ```www.microsoft.com```<br>
@@ -34,7 +34,7 @@ and received, along with the time expired between the transmission and reception
 each. It also provides basics statistics on the minimum, maximum, and average packet
 times.
 4. Record your findings and take a screenshot for your report.
-5. Repeat steps 1-4 for the following URLs:<br>
+5. Repeat steps 2-4 for the following URLs:<br>
     a. ```www.google.com```<br>
     b. ```www.amazon.com```<br>
     c. ```www.microsoft.com```<br>
