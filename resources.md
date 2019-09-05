@@ -43,15 +43,15 @@ Supplemental Material
 
 RFC 
 -----------------------------------
-- Hypertext Transfer Protocol -- HTTP/1.1 [rfc1945](https://tools.ietf.org/html/rfc1945), [rfc2616](https://tools.ietf.org/html/rfc2616)
+- Hypertext Transfer Protocol -- HTTP/1.1 [rfc1945](https://tools.ietf.org/html/rfc1945); [rfc2616](https://tools.ietf.org/html/rfc2616)
 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content [rfc7131](https://tools.ietf.org/html/rfc7231)
 - File Transfer Protocol [rfc959](https://tools.ietf.org/html/rfc959)
-- Simple Mail Transfer Protocol [rfc5321](https://tools.ietf.org/html/rfc5321) [rfc5322](https://tools.ietf.org/html/rfc5322)
-- Domain Name System 	[rfc1034](https://tools.ietf.org/html/rfc1034) [rfc1035](https://tools.ietf.org/html/rfc1035) [rfc2606](https://tools.ietf.org/html/rfc2606) [rfc7871](https://tools.ietf.org/html/rfc7871)
+- Simple Mail Transfer Protocol [rfc5321](https://tools.ietf.org/html/rfc5321); [rfc5322](https://tools.ietf.org/html/rfc5322)
+- Domain Name System 	[rfc1034](https://tools.ietf.org/html/rfc1034); [rfc1035](https://tools.ietf.org/html/rfc1035); [rfc2606](https://tools.ietf.org/html/rfc2606); [rfc7871](https://tools.ietf.org/html/rfc7871)
 - Transmission Control Protocol [rfc793](https://tools.ietf.org/html/rfc793)
 - Internet Control Message Protocol [rfc792](https://tools.ietf.org/html/rfc792)
 - Address Resolution Protocol [rfc826](https://tools.ietf.org/html/rfc826)
 - User Datagram Protocol [rfc768](https://tools.ietf.org/html/rfc768)
-- Internet Protocol version 4 [rfc790](https://tools.ietf.org/html/rfc790) [rfc791](https://tools.ietf.org/html/rfc791)
-- Internet Protocol version 6 [rfc4291](https://tools.ietf.org/html/rfc4291) [rfc8200](https://tools.ietf.org/html/rfc8200)
+- Internet Protocol version 4 [rfc790](https://tools.ietf.org/html/rfc790); [rfc791](https://tools.ietf.org/html/rfc791)
+- Internet Protocol version 6 [rfc4291](https://tools.ietf.org/html/rfc4291); [rfc8200](https://tools.ietf.org/html/rfc8200)
 - Dynamic Host Configuration Protocol [rfc2131](https://tools.ietf.org/html/rfc2131)
