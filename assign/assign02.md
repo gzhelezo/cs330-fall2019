@@ -7,7 +7,7 @@ title: "Assignment 2: Chapter 1"
 ### Chapter 1 Homework
 
 ### P2. 
-Equation 1.1 gives a formula for the end-to-end delay of sending one packet of length <i>L</i> over </i>N<i> links of transmission rate <i>R</i>. Generalize this formula for sending <i>P</i> such packets back-to-back over the <i>N</i> links.
+Equation 1.1 gives a formula for the end-to-end delay of sending one packet of length <i>L</i> over <i>N</i> links of transmission rate <i>R</i>. Generalize this formula for sending <i>P</i> such packets back-to-back over the <i>N</i> links.
 
 ### P6. 
 This elementary problem begins to explore propagation delay and transmission delay, two central concepts in data networking. Consider two hosts, A and B, connected by a single link of rate <i>R</i> bps. Suppose that the two hosts are separated by <i>m</i> meters, and suppose the propagation speed along the link is <i>s</i> meters/sec. Host A is to send a packet of size <i>L</i> bits to Host B. 
