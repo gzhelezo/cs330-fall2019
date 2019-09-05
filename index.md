@@ -19,5 +19,6 @@ All information about the course will be posted here.
 
 ## News
 
+* **Sept 17** - [Chapter 1 Homework](assign/assign02.html) Due
 * **Aug 29** - [Assignment 1](assign/assign01.html) Due
 * **Aug 27** - Welcome back!
