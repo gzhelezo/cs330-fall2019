@@ -20,5 +20,7 @@ All information about the course will be posted here.
 ## News
 
 * **Sept 17** - Chapter 1 [Homework](assign/assign02.html) Due
+* **Sept 12** - Lab 2: [Basic Network Footprinting](../labs/lab01.html) Due
+* **Sept 5** - Lab 1: [Wireshark - Intro](../labs/Wireshark_Intro_v7.0.pdf) Due
 * **Aug 29** - [Assignment 1](assign/assign01.html) Due
 * **Aug 27** - Welcome back!
