@@ -43,7 +43,7 @@ Supplemental Material
 
 RFC 
 -----------------------------------
-- Hypertext Transfer Protocol -- HTTP/1.1 [rfc1945](https://tools.ietf.org/html/rfc1945); [rfc2616](https://tools.ietf.org/html/rfc2616)
+- Hypertext Transfer Protocol -- HTTP/1.0 [rfc1945](https://tools.ietf.org/html/rfc1945); HTTP/1.1 [rfc2616](https://tools.ietf.org/html/rfc2616)
 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content [rfc7131](https://tools.ietf.org/html/rfc7231)
 - File Transfer Protocol [rfc959](https://tools.ietf.org/html/rfc959)
 - Simple Mail Transfer Protocol [rfc5321](https://tools.ietf.org/html/rfc5321); [rfc5322](https://tools.ietf.org/html/rfc5322)
