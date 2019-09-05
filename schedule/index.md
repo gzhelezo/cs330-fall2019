@@ -13,10 +13,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 1  | Aug 27   | Introduction and Course Overview | | [Ethics](../assign/assighn01.html) 
 > 1  | Aug 29   | Intro to Computer Networks and the Internet [part 1](../slides/lecture1_introduction_to_computer_networks_part1.pdf) | CN: 1.1 - 1.3 | Wireshark Lab - [Intro](../labs/Wireshark_Intro_v7.0.pdf) 
 > | | | |
-> 2  | Sept 3   | Intro to Computer Networks and the Internet [part 2](../slides/lecture2_introduction_to_computer_networks_part2.pdf)  | CN: 1.4 - 1.8 | [Basic Network Footprinting](../labs/lab01.html)
-> 2  | Sept 5   | Application Layer: [HTTP](../slides/lecture3_application_layer_HTTP.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - [HTTP](../labs/Wireshark_HTTP_v7.0.pdf) 
+> 2  | Sept 3   | Intro to Computer Networks and the Internet [part 2](../slides/lecture2_introduction_to_computer_networks_part2.pdf)  | CN: 1.4 - 1.8 | 
+> 2  | Sept 5   | Application Layer: [HTTP](../slides/lecture3_application_layer_HTTP.pdf) | CN: 2.1 - 2.2 | [Basic Network Footprinting](../labs/lab01.html) 
 > | | | |
-> 3  | Sept 10  | Application Layer: [FTP, SMTP](../slides/lecture4_application_layer_FTP_SMTP_DNS.pdf) | CN: 2.3 |  
+> 3  | Sept 10  | Application Layer: [FTP, SMTP](../slides/lecture4_application_layer_FTP_SMTP_DNS.pdf) | CN: 2.3 | Wireshark Lab - [HTTP](../labs/Wireshark_HTTP_v7.0.pdf)
 > 3  | Sept 12  | Application Layer: DNS | CN 2.4 | Wireshark - [DNS](../labs/Wireshark_DNS_v7.0.pdf) 
 > | | | |
 > 4  | Sept 17  | Application Layer: [P2P, Sockets](../slides/lecture5_application_layer_P2P_sockets.pdf) | CN 2.5 - 2.8 | 
