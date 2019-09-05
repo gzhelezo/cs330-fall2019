@@ -15,7 +15,7 @@ This lab exercise will provide the students hands on experience working with bas
 1. In Windows, open a command prompt.
 2. Type ```nslookup www.ycpcs.github.io``` and then press Enter.
 3. What information is displayed? Take a screenshot for your report.
-4. Now type in the IP address and see what is displayed. Record your findings.
+4. Now type in the IP address and see what is displayed, e.g. ```nslookup 127.0.0.1```.  Record your findings. Can you find one that works?
 5. Repeat steps 1-3 for the following URLs:<br>
     a. ```www.google.com```<br>
     b. ```www.amazon.com```<br>
