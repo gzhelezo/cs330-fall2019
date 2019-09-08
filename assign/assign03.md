@@ -25,4 +25,4 @@ Hint: start a separate thread for every new client
 Post your source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. I may ask you to demo your program to me.
 
 ### Hints
-If you get stuck extracting the URL from the request line, [this]() starting point may help.
+If you get stuck extracting the URL from the request line, [this](getfilename.txt) starting point may help.
