@@ -11,7 +11,8 @@ title: "Programming Assignment 1: HTTP Server"
 - [WebServer](WebServer.java) - in case you couldn't finish the initial code at class.
 
 ### Extra Credit 
-- Rewrite your server so that it can accept multiple connections (this allows the server to serve arbitrary number of clients).
+- Rewrite your server so that it can accept multiple connections (this allows the server to serve arbitrary number of clients). 
+Hint: start a separate thread for every new client
 - Append the thread name for each connection to the response headers.  
 
 ### References 
