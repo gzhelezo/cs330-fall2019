@@ -7,7 +7,8 @@ title: "Programming Assignment 1: HTTP Server"
 ### My First Web Server 
 - Update your server so that can recieve and parses HTTP requests - extracts the file path from the URL.
 - If the file in the request exists - return _200 OK_ and the file contents as a HTTP response message.
-- If file doesn’t exist, send a properly formatted _404 Not Found_ error message
+- If file doesn’t exist, send a properly formatted _404 Not Found_ error message.
+- [WebServer](WebServer.java) - in case you couldn't finish the initial code at class.
 
 ### Extra Credit 
 - Rewrite your server so that it can accept multiple connections (this allows the server to serve arbitrary number of clients).
