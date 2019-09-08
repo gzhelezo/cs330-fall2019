@@ -5,7 +5,7 @@ title: "Programming Assignment 1: HTTP Server"
 ---
 
 ### My First Web Server 
-- Update your server so that can recieve and parses HTTP requests - extracts the file path from the URL.
+- Update your server so that can recieve and parses HTTP requests - extracts the file path from the URL. Rememeber the URL is the second token in the request line.   
 - If the file in the request exists - return _200 OK_ and the file contents as a HTTP response message.
 - If file doesn’t exist, send a properly formatted _404 Not Found_ error message.
 - [WebServer](WebServer.java) - in case you couldn't finish the initial code at class.
@@ -23,3 +23,6 @@ Hint: start a separate thread for every new client
 ### Submit 
 
 Post your source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. I may ask you to demo your program to me.
+
+### Hints
+If you get stuck extracting the URL from the request line, [this]() starting point may help.
