@@ -1,0 +1,17 @@
+private static String getFileName(Socket socket) throws IOException {
+
+	InputStream is = socket.getInputStream();
+	BufferedReader br = new BufferedReader(new InputStreamReader(is));
+
+	// Fist line in the HTTP Request message is always the request line 
+	String requestLine = br.readLine();
+
+	// Constructs a string tokenizer with the default delimiters: \t\n\r\f
+	StringTokenizer tokens = new StringTokenizer(requestLine);
+
+	// First thing in the request line is the method - skip over it 
+	tokens.nextToken();
+	String fileName = tokens.nextToken();
+
+	return fileName;
+}
