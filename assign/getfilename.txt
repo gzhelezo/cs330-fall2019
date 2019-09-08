@@ -9,7 +9,7 @@ private static String getFileName(Socket socket) throws IOException {
 	// Constructs a string tokenizer with the default delimiters: \t\n\r\f
 	StringTokenizer tokens = new StringTokenizer(requestLine);
 
-	// First thing in the request line is the method - skip over it 
+	// First thing in the request line is the HTTP method - skip over it 
 	tokens.nextToken();
 	String fileName = tokens.nextToken();
 
