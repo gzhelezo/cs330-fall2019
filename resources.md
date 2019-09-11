@@ -48,7 +48,7 @@ RFC
 - File Transfer Protocol [rfc959](https://tools.ietf.org/html/rfc959)
 - Simple Mail Transfer Protocol [rfc5321](https://tools.ietf.org/html/rfc5321); [rfc5322](https://tools.ietf.org/html/rfc5322)
 - Post Office Protocol - Version 3 [rfc1939](https://tools.ietf.org/html/rfc1939)
-- INTERNET MESSAGE ACCESS PROTOCOL - VERSION 4rev1 [rfc3501](https://tools.ietf.org/html/rfc3501)
+- Internet Mail Access Protocol - Version 4rev1 [rfc3501](https://tools.ietf.org/html/rfc3501)
 - Domain Name System 	[rfc1034](https://tools.ietf.org/html/rfc1034); [rfc1035](https://tools.ietf.org/html/rfc1035); [rfc2606](https://tools.ietf.org/html/rfc2606); [rfc7871](https://tools.ietf.org/html/rfc7871)
 - Transmission Control Protocol [rfc793](https://tools.ietf.org/html/rfc793)
 - Internet Control Message Protocol [rfc792](https://tools.ietf.org/html/rfc792)
