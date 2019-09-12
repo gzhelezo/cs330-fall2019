@@ -5,10 +5,12 @@ title: "Programming Assignment 1: HTTP Server"
 ---
 
 ### My First Web Server 
-- Update your server so that can recieve and parses HTTP requests - extracts the file path from the URL. Rememeber the URL is the second token in the request line.   
-- You can use the _current directory_ to serve up content.
-- If the file in the request exists - return _200 OK_ and the file contents as a HTTP response message.
-- If file doesn’t exist, send a properly formatted _404 Not Found_ error message.
+We will revise the simple web server we created in class to serve up real content. In order to do so, you need to do the following: 
+
+- Update your server so that can receive and parse HTTP requests.
+- Extracts the file path from the URL. Remember the URL is the second token in the request line.   
+- If the file in the request exists - return _200 OK_ and the file contents as the entity body in the HTTP response message.
+- If file doesn’t exist, send a properly formatted _404 Not Found_ error message. The requested files can live in the _current directory_.
 - [WebServer](WebServer.java) - in case you couldn't finish the initial code at class.
 
 ### Extra Credit 
