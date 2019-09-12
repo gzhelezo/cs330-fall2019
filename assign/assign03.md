@@ -11,8 +11,10 @@ We will revise the simple web server we created in class to serve up real conten
 - Extracts the file path from the URL. Remember the URL is the second token in the request line.   
 - If the file in the request exists - return _200 OK_ and the file contents as the entity body in the HTTP response message.
 - If file doesn’t exist, send a properly formatted _404 Not Found_ error message. The requested files can live in the _current directory_.
-- [WebServer](WebServer.java) - in case you couldn't finish the initial code at class.
+
+### Notes
 - I will demo my version of the server before we go over the assignment.
+- [WebServer](WebServer.java) - in case you couldn't finish the initial code at class.
 
 ### Extra Credit 
 - Rewrite your server so that it can accept multiple connections (this allows the server to serve arbitrary number of clients). 
