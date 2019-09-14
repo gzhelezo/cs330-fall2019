@@ -26,23 +26,30 @@ Penetration Testing
 -  [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** for network administrators and network hackers.
 -  [Ettercap](http://www.ettercap-project.org/ettercap/) is a comprehensive suite for man in the middle attacks.
 -  [The Metasploit Project](https://www.metasploit.com/) is the world’s most used penetration testing framework.
-  
+-  [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
+    - Five More Hackers Become Millionaires on [HackerOne](https://www.bleepingcomputer.com/news/security/five-more-hackers-become-millionaires-on-hackerone/)
+
 Supplemental Material
 ------------------------------------
 
--  [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+-  [Interactive Exercises](http://gaia.cs.umass.edu/kurose_ross/interactive/)
 -  [High Performance Browser Networking](https://hpbn.co/)
 -  [A RESTful Tutorial](https://www.restapitutorial.com/)
+-  [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 -  [OWASP Cheat Sheet Series V2](https://cheatsheetseries.owasp.org/)
--  [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
-    - Five More Hackers Become Millionaires on [HackerOne](https://www.bleepingcomputer.com/news/security/five-more-hackers-become-millionaires-on-hackerone/)
--  [Interactive Exercises](http://gaia.cs.umass.edu/kurose_ross/interactive/)
- - [CERN 2019 WorldWideWeb Rebuild](https://worldwideweb.cern.ch/browser/)
- - Preventing Cross-Site Request Forgery (**CSRF**) Attacks in [ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
- - Prevent Cross-Site Scripting (**XSS**) in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-2.2)
+- Preventing Cross-Site Request Forgery (**CSRF**) Attacks in [ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
+- Prevent Cross-Site Scripting (**XSS**) in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-2.2)
+
+References
+-----------------------------------
+
+- [Root Servers](https://root-servers.org/) map 
+- CERN 2019 [WorldWideWeb](https://worldwideweb.cern.ch/browser/) Rebuild
+
 
 RFC 
 -----------------------------------
+
 - Hypertext Transfer Protocol -- HTTP/1.0 [rfc1945](https://tools.ietf.org/html/rfc1945); HTTP/1.1 [rfc2616](https://tools.ietf.org/html/rfc2616)
 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content [rfc7131](https://tools.ietf.org/html/rfc7231)
 - File Transfer Protocol [rfc959](https://tools.ietf.org/html/rfc959)
