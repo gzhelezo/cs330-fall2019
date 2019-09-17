@@ -46,7 +46,8 @@ References
 - [Root Servers](https://root-servers.org/) map 
 - [Internet Assigned Numbers Authority](iana.org)
 - CERN 2019 [WorldWideWeb](https://worldwideweb.cern.ch/browser/) Rebuild
-
+- [BIND9](https://www.isc.org/bind/)
+- [Microsoft Message Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=44226)
 
 RFC 
 -----------------------------------
