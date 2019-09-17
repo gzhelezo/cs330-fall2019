@@ -15,6 +15,8 @@ with Java, JavaScript, HTML5, PHP, C/C++ and more.
 -  [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) is a suite of more than 70 freeware utilities used to monitor, manage and troubleshoot the Windows operating system.
     -  [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview) is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.
     -  [Whois](https://docs.microsoft.com/en-us/sysinternals/downloads/whois) performs the registration record for the domain name or IP address that you specify.
+- [BIND9](https://www.isc.org/bind/)
+- [Microsoft Message Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=44226)
 -  [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 -  [Postman](https://www.getpostman.com/) API development environment.
 -  [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
@@ -46,8 +48,7 @@ References
 - [Root Servers](https://root-servers.org/) map 
 - [Internet Assigned Numbers Authority](iana.org)
 - CERN 2019 [WorldWideWeb](https://worldwideweb.cern.ch/browser/) Rebuild
-- [BIND9](https://www.isc.org/bind/)
-- [Microsoft Message Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=44226)
+
 
 RFC 
 -----------------------------------
