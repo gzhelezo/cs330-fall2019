@@ -16,10 +16,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 2  | Sept 3   | Intro to Computer Networks and the Internet [part 2](../slides/lecture2_introduction_to_computer_networks_part2.pdf)  | CN: 1.4 - 1.8 | 
 > 2  | Sept 5   | Application Layer: [HTTP](../slides/lecture3_application_layer_HTTP.pdf) | CN: 2.1 - 2.2 | [Basic Network Footprinting](../labs/lab01.html) 
 > | | | |
-> 3  | Sept 10  | Application Layer: HTTP [cont](../slides/lecture3_application_layer_HTTP.pdf) | CN: 2.3 | Wireshark Lab - [HTTP](../labs/Wireshark_HTTP_v7.0.pdf)
-> 3  | Sept 12  | Application Layer: [FTP, SMTP](../slides/lecture4_application_layer_FTP_SMTP.pdf) | CN 2.4 | 
+> 3  | Sept 10  | Application Layer: HTTP [cont](../slides/lecture3_application_layer_HTTP.pdf) | CN: 2.2 | Wireshark Lab - [HTTP](../labs/Wireshark_HTTP_v7.0.pdf)
+> 3  | Sept 12  | Application Layer: [FTP, SMTP](../slides/lecture4_application_layer_FTP_SMTP.pdf) | CN 2.3 | 
 > | | | |
-> 4  | Sept 17  | Application Layer: [DNS](../slides/lecture4_application_layer_DNS.pdf) | CN 2.5 | Wireshark - [DNS](../labs/Wireshark_DNS_v7.0.pdf) 
+> 4  | Sept 17  | Application Layer: [DNS](../slides/lecture4_application_layer_DNS.pdf) | CN 2.4 | Wireshark - [DNS](../labs/Wireshark_DNS_v7.0.pdf) 
 > 4  | Sept 19  | Application Layer: [P2P, Sockets](../slides/lecture5_application_layer_P2P_sockets.pdf) | CN 2.6 - 2.8 | 
 > | | | 
 > 5  | Sept 24  | Transport Layer: Design Issues, UDP | CN: 3.1 - 3.3 |
