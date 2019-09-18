@@ -19,16 +19,16 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 3  | Sept 10  | Application Layer: HTTP [cont](../slides/lecture3_application_layer_HTTP.pdf) | CN: 2.3 | Wireshark Lab - [HTTP](../labs/Wireshark_HTTP_v7.0.pdf)
 > 3  | Sept 12  | Application Layer: [FTP, SMTP](../slides/lecture4_application_layer_FTP_SMTP_DNS.pdf) | CN 2.4 | 
 > | | | |
-> 4  | Sept 17  | Application Layer: [DNS, P2P, Sockets](../slides/lecture5_application_layer_P2P_sockets.pdf) | CN 2.5 - 2.8 | Wireshark - [DNS](../labs/Wireshark_DNS_v7.0.pdf) 
-> 4  | Sept 19  | Transport Layer: Design Issues, UDP | CN: 3.1 - 3.3 | Wireshark Lab - [UDP](../labs/Wireshark_UDP_v7.0.pdf)
+> 4  | Sept 17  | Application Layer: [DNS](../slides/lecture4_application_layer_DNS.pdf) | CN 2.5 - 2.8 | Wireshark - [DNS](../labs/Wireshark_DNS_v7.0.pdf) 
+> 4  | Sept 19  | Application Layer: [P2P, Sockets](../slides/lecture5_application_layer_P2P_sockets.pdf) | CN 2.5 - 2.8 | 
 > | | | 
-> 5  | Sept 24  | Transport Layer: Reliable Data Transfer | CN: 3.4 | [Reliable Data Transfer](../labs/lab02.html)
-> 5  | Sept 26  | Transport Layer: TCP | CN: 3.5 | Wireshark Lab - [TCP](../labs/Wireshark_TCP_v7.0.pdf)
+> 5  | Sept 24  | Transport Layer: Design Issues, UDP | CN: 3.1 - 3.3 |
+> 5  | Sept 26  | Transport Layer: Reliable Data Transfer | CN: 3.4 | [Reliable Data Transfer](../labs/lab02.html)
 > | | | 
-> 6  | Oct 1    | Transport Layer: Congestion Control | CN: 3.6 - 3.8 | 
-> 6  | Oct 3    | Exam Review | CN: 1.1 - 3.8 | 
+> 6  | Oct 1    | Transport Layer: TCP | CN: 3.5 | Wireshark Lab - [TCP](../labs/Wireshark_TCP_v7.0.pdf)
+> 6  | Oct 3    | Transport Layer: Congestion Control | CN: 3.6 - 3.8 |  
 > | | | |
-> 7  | Oct 8    | **Exam 1** | |
+> 7  | Oct 8    | **Exam 1** | CN: 1.1 - 3.8 | 
 > 7  | Oct 10   | | |
 > | | | |
 > 8  | Oct 15   | **NO CLASS - Fall Break** | | 
