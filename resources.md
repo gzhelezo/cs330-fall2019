@@ -47,6 +47,7 @@ References
 
 - [Root Servers](https://root-servers.org/) map 
 - Internet Assigned Numbers Authority [IANA](https://www.iana.org/)
+- Service Name and Transport Protocol Port Number [Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 - CERN 2019 [WorldWideWeb](https://worldwideweb.cern.ch/browser/) Rebuild
 - [The CERT Division](https://www.sei.cmu.edu/about/divisions/cert/index.cfm) at Carnegie Mellon University
 
