@@ -7,10 +7,10 @@ title: "Lab 2 - Socket Introduction"
 # Lab 2 - Socket Introduction   
 
 ### Download and compile _as individual projects_ the following files:
-  - TCPClient.java 
-  - UDPClient.java
-  - TCPServer.java
-  - UDPServer.java
+  - [TCPClient.java](TCPClient.java) 
+  - [UDPClient.java](UDPClient.java)
+  - [TCPServer.java](TCPServer.java)
+  - [UDPServer.java](UDPServer.java)
  
 ### We use the following simple client/server applications do demonstrate UDP and TCP socket programming. 
   - A client reads a line from its standard input and sends the line out its socket to the server.
