@@ -6,7 +6,7 @@ title: "Lab 2 - Socket Introduction"
 
 # Lab 2 - Socket Introduction   
 
-### Download and compile the following:
+### Download and compile _as individual projects_ the following files:
   - TCPClient.java 
   - UDPClient.java
   - TCPServer.java
