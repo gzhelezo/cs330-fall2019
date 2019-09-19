@@ -41,3 +41,6 @@ title: "Lab 2 - Socket Introduction"
     - What happens?  
     - Why? 
     - Is this a bug? And if it is, can you fix it?
+    
+### Grading
+Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
