@@ -13,7 +13,7 @@ import java.net.Socket;
 
 /**
  *
- * @author gjele
+ * @author 
  */
 public class TCPServer {
 
