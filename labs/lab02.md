@@ -32,7 +32,7 @@ title: "Lab 2 - Socket Introduction"
     - What happens? 
     - Why?
     - Extra Credit: Can if you fix it?    
-  - <b>Update</b> TCPClient, UDPClient, TCPServer and UDPServer to accept the port number as a user input.
+  - Update TCPClient, UDPClient, TCPServer and UDPServer to accept the port number as a user input.
   - Change the _receiveData_ in UDPClient to allocate 1 byte instead of 1024. Run the UDPClient and the UDPServer – send a message with length more than 1. 
     - What happens? 
     - Why?
