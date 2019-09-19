@@ -18,7 +18,7 @@ All information about the course will be posted here.
 * [Ethics](assign/ethics.md)
 
 ## News
-
+* **Sept 27** - Programming Lab 1: [Socket Introduction](labs/lab02.html) Due
 * **Sept 24** - Programming Assignment 1: [My First Web Server](assign/assign03.html) Due
 * **Sept 19** - Lab 3: [Wireshark - HTTP](labs/Wireshark_HTTP_v7.0.pdf) Due
 * **Sept 17** - Homework 1: [Chapter 1](assign/assign02.html) Due
