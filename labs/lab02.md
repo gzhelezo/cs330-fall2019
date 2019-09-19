@@ -32,15 +32,20 @@ title: "Lab 2 - Socket Introduction"
     - What happens? 
     - Why?
     - Extra Credit: Can if you fix it?    
-  - Update TCPClient, UDPClient, TCPServer and UDPServer to accept the port number as a user input.
-  - Change the receiveData in UDPClient to allocate 1 byte instead of 1024. Run the UDPClient and the UDPServer – send a message with length more than 1. 
+  - <b>Update</b> TCPClient, UDPClient, TCPServer and UDPServer to accept the port number as a user input.
+  - Change the _receiveData_ in UDPClient to allocate 1 byte instead of 1024. Run the UDPClient and the UDPServer – send a message with length more than 1. 
     - What happens? 
     - Why?
-  - Change the allocation size of sendData in UDPClient to 1 and rerun the client. 
+  - Change the allocation size of _sendData_ in UDPClient to 1 and rerun the client. 
     - What do you expect will happen?
     - What happens?  
     - Why? 
     - Is this a bug? And if it is, can you fix it?
     
+### References 
+- [ServerSocket](https://docs.oracle.com/javase/8/docs/api/java/net/ServerSocket.html)
+- [Socket](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html)
+- [DatagramSocket](https://docs.oracle.com/javase/8/docs/api/java/net/DatagramSocket.html)
+
 ### Grading
 Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
