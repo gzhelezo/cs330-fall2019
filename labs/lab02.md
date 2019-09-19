@@ -41,6 +41,7 @@ title: "Lab 2 - Socket Introduction"
     - What happens?  
     - Why? 
     - Is this a bug?
+ - Experiment with the code, surprise me. 
     
 ### References 
 - [ServerSocket](https://docs.oracle.com/javase/8/docs/api/java/net/ServerSocket.html)
