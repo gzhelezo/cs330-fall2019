@@ -48,4 +48,4 @@ title: "Lab 2 - Socket Introduction"
 - [DatagramSocket](https://docs.oracle.com/javase/8/docs/api/java/net/DatagramSocket.html)
 
 ### Grading
-Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
+Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
