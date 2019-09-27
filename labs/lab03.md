@@ -1,10 +1,10 @@
 ---
 layout: default
 course_number: CS330
-title: "Lab 3 - Reliable Data Transfer"
+title: "Lab 4 - Reliable Data Transfer"
 ---
 
-# Lab 3 - Reliable Data Transfer   
+# Lab 4 - Reliable Data Transfer   
 
 ###  R12. 
 Visit the Go-Back-N Java applet at the companion [Web site](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198702.cw/index.html).
