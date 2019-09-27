@@ -1,10 +1,10 @@
 ---
 layout: default
 course_number: CS330
-title: "Lab 2 - Socket Introduction"
+title: "Programming Lab 1 - Socket Introduction"
 ---
 
-# Lab 2 - Socket Introduction   
+# Programming Lab 1 - Socket Introduction   
 
 ### Download and compile _as individual projects_ the following files:
   - [TCPClient.java](TCPClient.java) 
