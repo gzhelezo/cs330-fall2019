@@ -19,6 +19,7 @@ All information about the course will be posted here.
 
 ## News
 * **Oct 03** - Assignment 3: [Homework - Chapter 2](assign/assign04.html) Due
+* **Oct 03** - Lab 4: [Reliable Data Transfer](labs/lab03.html) Due
 * **Sept 27** - Programming Lab 1: [Socket Introduction](labs/lab02.html) Due
 * **Sept 24** - Programming Assignment 1: [My First Web Server](assign/assign03.html) Due
 * **Sept 19** - Lab 3: [Wireshark - HTTP](labs/Wireshark_HTTP_v7.0.pdf) Due
