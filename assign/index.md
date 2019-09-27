@@ -3,7 +3,7 @@ layout: default
 title: "Assignments"
 ---
 
-This page links to programming assignments.
+This page links to homework and programming assignments.
 
 > Assignment | File | Due
 > ---------- | ---- | ---
