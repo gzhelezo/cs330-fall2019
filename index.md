@@ -18,6 +18,7 @@ All information about the course will be posted here.
 * [Ethics](assign/ethics.md)
 
 ## News
+* **Oct 08** - Exam 1
 * **Oct 03** - Assignment 3: [Homework - Chapter 2](assign/assign04.html) Due
 * **Oct 03** - Lab 4: [Reliable Data Transfer](labs/lab03.html) Due
 * **Sept 27** - Programming Lab 1: [Socket Introduction](labs/lab02.html) Due
