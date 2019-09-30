@@ -7,7 +7,7 @@ title: "Exam 1 - Study Guide"
 Exam 1 - Oct 08, 2019
 -----------------------
 
-### Exam 1 Study Guide:
+### Study Guide:
   - Study circuit and packet switching.   
   - Know the types of delays in routers. 
   - Know packet loss.
