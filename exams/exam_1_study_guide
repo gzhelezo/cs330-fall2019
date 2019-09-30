@@ -1,11 +1,13 @@
----
-layout: default
-course_number: CS330
-title: "Exam 1 - Study Guide"
----
+
+
+# Exam 1 
 
 ### Exam 1 Study Guide:
   - [TCPClient.java](TCPClient.java) 
   - [UDPClient.java](UDPClient.java)
   - [TCPServer.java](TCPServer.java)
   - [UDPServer.java](UDPServer.java)
+  
+### why
+  - one
+  - two
