@@ -26,7 +26,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 5  | Sept 26  | Transport Layer: [Reliable Data Transfer](../slides/lecture6_transport_layer_RDT.pdf) | CN: 3.4 | [Reliable Data Transfer](../labs/lab03.html)
 > | | | 
 > 6  | Oct 1    | Transport Layer: [TCP](../slides/lecture6_transport_layer_TCP.pdf) | CN: 3.5 | Wireshark Lab - [TCP](../labs/Wireshark_TCP_v7.0.pdf)
-> 6  | Oct 3    | Transport Layer: Congestion Control | CN: 3.6 - 3.8 |  
+> 6  | Oct 3    | Transport Layer: [Congestion Control](../slides/lecture6_transport_layer_Congestion_Control.pdf) | CN: 3.6 - 3.8 |  
 > | | | |
 > 7  | Oct 8    | **Exam 1** | CN: 1.1 - 3.8 | 
 > 7  | Oct 10   | | |
