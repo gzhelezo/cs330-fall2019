@@ -1,10 +1,10 @@
 ---
 layout: default
 course_number: CS330
-title: "Assignment 3: Chapter 2"
+title: "Assignment 3: Chapter 2 Solutions"
 ---
 
-# Chapter 2 Homework
+# Chapter 2 Homework Solutions
 
 ### R6 (10 pts). 
 Suppose you wanted to do a transaction from a remote client to a server as fast as possible. Would you use UDP or TCP? Why?
