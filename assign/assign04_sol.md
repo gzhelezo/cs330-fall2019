@@ -34,4 +34,17 @@ Suppose you can access the caches in the local DNS servers of your department. C
 ### P22 (15 pts). 
 Consider distributing a file of _F =_ 15 Gbits to _N_ peers. The server has an upload rate of _u<sub>s</sub>_ = 30 Mbps, and each peer has a download rate of _d<sub>i</sub>_ = 2 Mbps and an upload rate of _u_. 
 For _N_ = 10, 100, and 1,000 and _u_ = 300 Kbps, 700 Kbps, and 2 Mbps, prepare a **chart** giving the minimum distribution time for each of the combinations of _N_ and _u_ for both client-server distribution and P2P distribution. 
- -  Did in class
+ - Did in class
+ - Client Server
+ 
+**300 Kbps**|7680|51200|512000
+:-----:|:-----:|:-----:|:-----:
+**700 Kbps**|7680|51200|512000
+**2 Mbps**|7680|51200|512000
+
+  - Peer to Peer
+
+**300 Kbps**|7680|25904|47559
+:-----:|:-----:|:-----:|:-----:
+**700 Kbps**|7680|15616|21525
+**2 Mbps**|7680|7680|7680
