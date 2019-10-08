@@ -20,7 +20,7 @@ Is it possible for an organization’s Web server and mail server to have exactl
  
 ### R26 (15 pts). 
 In Section 2.7, the UDP server described needed only one socket, whereas the TCP server needed two sockets. Why? If the TCP server were to support _n_ simultaneous connections, each from a different client host, how many sockets would the TCP server need? 
-  - With the UDP server, there is no welcoming socket, and all data from different clients enters the server through this one socket. With the TCP server, there is a welcoming socket, and each time a client initiates a connection to the server, a new socket is created. Thus, to support n simultaneous connections, the server would need _n+1_ socket.
+  - With the UDP server, there is no welcoming socket, and all data from different clients enters the server through this one socket. With the TCP server, there is a welcoming socket, and each time a client initiates a connection to the server, a new socket is created. Thus, to support _n_ simultaneous connections, the server would need _n+1_ socket.
  
 ### P3 (15 pts). 
 Consider an HTTP client that wants to retrieve a Web document at a given URL. The IP address of the HTTP server is initially unknown. What transport and application-layer protocols besides HTTP are needed in this scenario? 
