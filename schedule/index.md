@@ -32,17 +32,17 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 7  | Oct 10   | Exam 1 Review | |
 > | | | |
 > 8  | Oct 15   | **NO CLASS - Fall Break** | | 
-> 8  | Oct 17   | | |
-> 9  | Oct 22   | | |
-> 9  | Oct 24   | | |
+> 8  | Oct 17   | Network Layer: Overview, Router Architectures | CN: 4.1 - 4.2|
+> 9  | Oct 22   | Network Layer: IPv4, DHCP, NAT | CN: 4.3|
+> 9  | Oct 24   | Network Layer: IPv6, ICMP | CN 4.3 |
 > | | | |
-> 10 | Oct 29   | | | 
-> 10 | Oct 31   | | | 
+> 10 | Oct 29   | Network Layer: Routing Algorithms | CN: 5.1 - 5.2 | 
+> 10 | Oct 31   | Network Layer: Internet Routing | CN: 5.3 - 5.4 | 
 > | | | |
-> 11 | Nov 5    | | | 
-> 11 | Nov 7    | | | 
+> 11 | Nov 5    | Link Layer: Link Layer Functions| CN: 6.1 - 6.3 | 
+> 11 | Nov 7    | Link Layer: Switched LANs, Ethernet | CN: 6.4 - 6.7 | 
 > | | | |
-> 12 | Nov 12   | **Exam 2** | CN: 4.1 - 5.8 |  
+> 12 | Nov 12   | **Exam 2** | CN: 4.1 - 6.8 |  
 > 12 | Nov 14   | | |
 > | | | |
 > 13 | Nov 19   | | | 
@@ -66,10 +66,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 9  | Oct 22   | Network Layer: IPv6, ICMP | CN: 4.4 | Wireshark Lab - ICMP
 > 9  | Oct 24   | Network Layer: Routing Algorithms | CN: 4.5 | Wireshark Lab - NAT
 > 10 | Oct 29   | Network Layer: Internet Routing |  CN: 4.6 - 4.8 | Wireshark Lab - ARP
-> 10 | Oct 31   | Link Layer: Link Layer Functions | CN 5.1 - 5.3 | 
-> 11 | Nov 5    | Link Layer: Switched LANs, Ethernet | CN: 5.4 - 5.6 |   Wireshark Lab - DHCP
-> 11 | Nov 7    | Link Layer: VLANs | CN: 5.4 - 5.8 | 
-> 12 | Nov 12   | **Exam 2** | CN: 4.1 - 5.8 | | | 
+> 10 | Oct 31   | Link Layer: Link Layer Functions | CN 6.1 - 6.3 | 
+> 11 | Nov 5    | Link Layer: Switched LANs, Ethernet | CN: 6.4 - 6.6 |   Wireshark Lab - DHCP
+> 11 | Nov 7    | Link Layer: VLANs | CN: 6.4 - 6.8 | 
+> 12 | Nov 12   | **Exam 2** | CN: 4.1 - 6.8 | | | 
 > 12 | Nov 14   | Security in Computer Networks: Cryptography, Encryption | CN: 8.1 - 8.3 | 
 > 13 | Nov 19   | Security in Computer Networks: Authentication, Digital Signatures | CN: 8.3 - 8.6 | 
 > 13 | Nov 21   | Security in Computer Networks: VPNs, Firewalls and IDS | CN: 8.7 - 8.10 | Wireshark Lab - SSL
