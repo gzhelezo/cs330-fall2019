@@ -22,9 +22,11 @@ In this exercise we will create a nonstandard (but simple) UDP-based ping pong p
 
 ### Extra Credit 
 - In addition to RTT, the client should also report the minimum, maximum and the average RTT’s at the end of all pings from the client. Calculate and display the packet loss rate. 
-- •	The standard _ping_ program sends exactly one ping per second, modify the client to mimic the original _ping_ behavior. You can use the _Timer_ and _TimerTask_ classes in _java.util_.
+- The standard _ping_ program sends exactly one ping per second, modify the client to mimic the original _ping_ behavior (instead of sending new ping immediately when it receives a reply). Feel free to use the _Timer_ and _TimerTask_ classes in _java.util_.
 
 ### References 
+- [DatagramSocket](https://docs.oracle.com/javase/8/docs/api/java/net/DatagramSocket.html)
+- [DatagramPacket](https://docs.oracle.com/javase/8/docs/api/java/net/DatagramPacket.html)
 - [Timer](https://docs.oracle.com/javase/8/docs/api/java/util/Timer.html)
 - [TimerTask](https://docs.oracle.com/javase/8/docs/api/java/util/TimerTask.html)
 
