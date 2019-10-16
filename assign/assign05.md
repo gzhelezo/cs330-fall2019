@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS330
-title: "Programming Assignment 2: UDP Ping Pong
+title: "Programming Assignment 2: UDP Ping Pong"
 ---
 
 ### Programming Assignment 2 
