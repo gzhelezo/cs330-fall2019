@@ -55,6 +55,7 @@ References
 Technical Documentation 
 -----------------------------------
 
+- A Primer On Internet and TCP/IP Tools and Utilities: [rfc2151](https://tools.ietf.org/html/rfc2151)
 - Hypertext Transfer Protocol: HTTP/1.0 [rfc1945](https://tools.ietf.org/html/rfc1945); HTTP/1.1 [rfc2616](https://tools.ietf.org/html/rfc2616)
 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content [rfc7131](https://tools.ietf.org/html/rfc7231)
 - File Transfer Protocol: [rfc959](https://tools.ietf.org/html/rfc959)
@@ -70,3 +71,4 @@ Technical Documentation
 - Internet Protocol version 6: [rfc4291](https://tools.ietf.org/html/rfc4291); [rfc8200](https://tools.ietf.org/html/rfc8200)
 - Dynamic Host Configuration Protocol: [rfc2131](https://tools.ietf.org/html/rfc2131)
 - Some Internet Architectural Guidelines and Philosophy: [rfc3439](https://tools.ietf.org/html/rfc3439)
+
