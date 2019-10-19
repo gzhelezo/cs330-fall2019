@@ -52,7 +52,7 @@ References
 - [The CERT Division](https://www.sei.cmu.edu/about/divisions/cert/index.cfm) at Carnegie Mellon University
 - Assigned Internet [Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
 
-RFC 
+Technical Documentation 
 -----------------------------------
 
 - Hypertext Transfer Protocol: HTTP/1.0 [rfc1945](https://tools.ietf.org/html/rfc1945); HTTP/1.1 [rfc2616](https://tools.ietf.org/html/rfc2616)
