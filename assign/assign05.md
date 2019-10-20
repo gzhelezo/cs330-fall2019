@@ -21,7 +21,8 @@ In this exercise we will create a nonstandard (but simple) UDP-based ping pong p
   - I will demo my version of the ping pong before we go over the assignment.
 
 ### Extra Credit 
-- In addition to RTT, the client should also report the minimum, maximum and the average RTT’s at the end of all pings from the client. Calculate and display the packet loss rate. 
+- In addition to RTT, the client should also report the minimum, maximum and the average RTT’s at the end of all pings from the client.
+- Calculate and display the packet loss rate. 
 - The standard _ping_ program sends exactly one ping per second, modify the client to mimic the original _ping_ behavior (instead of sending new ping immediately when it receives a reply). Feel free to use the _Timer_ and _TimerTask_ classes in _java.util_.
 
 ### References 
