@@ -5,8 +5,8 @@ title: "Programming Assignment 2: UDP Ping Pong"
 ---
 
 ### Programming Assignment 2 
-In this programming assignment, you will write a client ping program in Java. Your client will send a simple ##ping## message to a server, 
-receive a corresponding ##pong## message back from the server, and determine the delay between when the client sent the ping message and received the pong message. 
+In this programming assignment, you will write a client ping program in Java. Your client will send a simple _ping_ message to a server, 
+receive a corresponding _pong_ message back from the server, and determine the delay between when the client sent the ping message and received the pong message. 
 This delay is called the Round Trip Time (RTT). The functionality provided by the client and server is similar to the functionality provided by standard ping program available in modern operating systems. 
 However, standard ping programs use the _I_nternet _C_ontrol _M_essage Protocol (_ICMP_). Java does not provide a straightforward means to interact with ICMP. 
 In this exercise we will create a nonstandard (but simple) UDP-based ping pong program. 
