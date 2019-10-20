@@ -17,7 +17,7 @@ In this exercise we will create a nonstandard (but simple) UDP-based ping pong p
   - Because UDP is an unreliable protocol, a packet sent by the client or server may be lost. For this reason, the client cannot wait indefinitely for a reply to a ping message. You should have the client wait up to one second for a reply from the server; if no reply is received, the client should assume that the packet was lost and print a message accordingly. 
 
 ### Notes
-  - In this assignment, you will be given the complete code for the server. Your job is to write the client code, which will be very similar to the server code. 
+  - In this assignment, you will be given the complete code for the [PingServer](PingServer.java). Your job is to write the client code, which will be very similar to the server code. 
   - I will demo my version of the ping pong before we go over the assignment.
 
 ### Extra Credit 
