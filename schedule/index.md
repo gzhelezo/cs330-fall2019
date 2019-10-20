@@ -33,7 +33,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > | | | |
 > 8  | Oct 15   | **NO CLASS - Fall Break** | | 
 > 8  | Oct 17   | Network Layer: [Overview, Router Architectures](../slides/lecture7_network_layer_overview.pdf) | CN: 4.1 - 4.2|
-> 9  | Oct 22   | Network Layer: IPv4, DHCP | CN: 4.3|
+> 9  | Oct 22   | Network Layer: [IPv4, DHCP](../slides/lecture7_network_layer_ipv4.pdf) | CN: 4.3|
 > 9  | Oct 24   | Network Layer: NAT, IPv6, ICMP | CN 4.3 |
 > | | | |
 > 10 | Oct 29   | Network Layer: Routing Algorithms | CN: 5.1 - 5.2 | 
