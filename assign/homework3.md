@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS330
-title: "Assignment 3: Chapter 4"
+title: "Assignment 4: Chapter 4"
 ---
 
 # Chapter 4 Homework
