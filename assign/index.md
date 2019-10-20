@@ -12,6 +12,6 @@ This page links to homework and programming assignments.
 > [My First Web Server](assign03.html)<sup>*</sup>  | One possible [solution](WebServerSol.java) | Sept 24, 2019
 > [Chapter 2 Homework](assign04.html) | [Solutions](assign04_sol.html) | Oct 03, 2019
 > [UDP ping-pong](assign05.html)<sup>*</sup>  | [PingServer](PingServer.java) | Oct 31, 2019
-> [Chapter 4 Homework](homework.html) | n/a | Oct 31, 2019
+> [Chapter 4 Homework](homework3.html) | n/a | Oct 31, 2019
 
 <sup>*</sup> Programming Assignment 
