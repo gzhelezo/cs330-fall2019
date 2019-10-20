@@ -19,7 +19,7 @@ Suppose Host A sends Host B a TCP segment encapsulated in an IP datagram. When H
 Compare and contrast the IPv4 and the IPv6 header fields. Do they have any fields in common?
 
 ### Problem 5 (10 pts)
-Suppose Host Asends Host B a TCPsegment encapsulated in an IPdatagram. When Host B receives the datagram, how does the network layer in Host B know it should pass the segment (that is, the payload of the datagram) to TCP rather than to UDP or to something else?
+Suppose Host Asends Host B a TCP segment encapsulated in an IP datagram. When Host B receives the datagram, how does the network layer in Host B know it should pass the segment (that is, the payload of the datagram) to TCP rather than to UDP or to something else?
 
 ### Submit 
 
