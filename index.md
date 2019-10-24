@@ -18,7 +18,7 @@ All information about the course will be posted here.
 * [Ethics](assign/ethics.md)
 
 ## News
-* **Oct 31** - Assignment 4: [Homework - Chapter 2](assign/homework3.html) Due
+* **Oct 31** - Assignment 4: [Homework - Chapter 4](assign/homework3.html) Due
 * **Oct 31** - Programming Assignment 2: [UDP Ping Pong](assign/assign05.html) Due
 * **Oct 10** - Lab 5: [Wireshark - TCP](labs/Wireshark_TCP_v7.0.pdf) Questions 1 - 12 Due
 * **Oct 08** - Exam 1, [Study Guide](exams/exam_1_study_guide.md)
