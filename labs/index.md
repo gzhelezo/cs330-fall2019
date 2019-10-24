@@ -13,3 +13,4 @@ This page links to in-class labs.
 > Sept 19 | Socket Introduction | [Programming Lab 1](lab02.html) | Sept 27 |
 > Sept 26 | Reliable Data Transfer | [Lab 4](lab03.html), [Solutions](lab03_sol.html) | Oct 03
 > Oct 01 | Wireshark - TCP: 1-12 | [Lab 5](Wireshark_TCP_v7.0.pdf) | Oct 10
+> Oct 24 | Wireshark - NAT | [Lab 6](Wireshark_NAT_v7.0.pdf) | Nov 05
