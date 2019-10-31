@@ -73,5 +73,6 @@ Technical Documentation
 - Dynamic Host Configuration Protocol: [rfc2131](https://tools.ietf.org/html/rfc2131)
 - RIP Version 2: [rfc2453](https://tools.ietf.org/html/rfc2453)
 - OSPF Version 2: [rfc2328](https://tools.ietf.org/html/rfc2328)
+- A Border Gateway Protocol 4 (BGP-4) [rfc4271](https://tools.ietf.org/html/rfc4271)
 - Some Internet Architectural Guidelines and Philosophy: [rfc3439](https://tools.ietf.org/html/rfc3439)
 - Internet Standard Subnetting Procedure: [rfc95](https://tools.ietf.org/html/rfc950)
