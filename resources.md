@@ -72,5 +72,6 @@ Technical Documentation
 - Internet Protocol v6: [rfc4291](https://tools.ietf.org/html/rfc4291); [rfc8200](https://tools.ietf.org/html/rfc8200)
 - Dynamic Host Configuration Protocol: [rfc2131](https://tools.ietf.org/html/rfc2131)
 - RIP Version 2: [rfc2453](https://tools.ietf.org/html/rfc2453)
+- OSPF Version 2: [rfc2328](https://tools.ietf.org/html/rfc2328)
 - Some Internet Architectural Guidelines and Philosophy: [rfc3439](https://tools.ietf.org/html/rfc3439)
 - Internet Standard Subnetting Procedure: [rfc95](https://tools.ietf.org/html/rfc950)
