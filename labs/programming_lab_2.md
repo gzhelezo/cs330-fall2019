@@ -35,24 +35,26 @@ for (NetworkInterface element : Collections.list(interfaceList)) {
 </code>
     
 <br>
+
 <code>getInetAddresses</code>: Provides a convenient method to return an Enumeration with all or a subset of the InetAddresses bound to this network interface.
+<br>
 An <code>InetAddresses</code> represents an Internet Protocol (IP) address. 
  
 MAC addresses can be retrieved when needed. The following method returns a string containing the IP address and the MAC address for the <code>NetworkInterface</code> instance. 
 The <code>getHardwareAddress</code> method returns a byte array containing the address and element is a <code>NetworkInterface</code> instance. 
 
 <code>
-byte[] macBuffer = element.getHardwareAddress(); 
-if (macBuffer != null) { 
-  for (int i = 0; i < macBuffer.length; i++) { 
-    System.out.printf(String.format("%02X%s", macBuffer[i], (i < macBuffer.length - 1) ? "-" : ""));   
+byte[] macBuffer = element.getHardwareAddress();
+if (macBuffer != null) {
+  for (int i = 0; i < macBuffer.length; i++) {
+    System.out.printf(String.format("%02X%s", macBuffer[i], (i < macBuffer.length - 1) ? "-" : ""));
   } 
 } 
 </code>
 
 <br>
 
-<code>InetAddress.getLocalHost</code>: Returns the IP address string in textual presentation. 
+<code>InetAddress.getLocalHost</code>: Returns the IP address string in textual presentation.
 
 ### Task 
 Use the provided information to obtain and display an enumeration of the network interfaces for the current computer. The output will vary depending on the computer used. For a reference, I see the following on my laptop![link layer!](link_layer.png)
