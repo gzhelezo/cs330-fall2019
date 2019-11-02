@@ -54,8 +54,6 @@ if (macBuffer != null) {
 
 <code>InetAddress.getLocalHost</code>: Returns the IP address string in textual presentation. 
 
-<br>
-
 ### Task 
 Use the provided information to obtain and display an enumeration of the network interfaces for the current computer. The output will vary depending on the computer used. For a reference, I see the following on my laptop![link layer!](link_layer.png)
 
