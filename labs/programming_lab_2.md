@@ -12,14 +12,10 @@ Remember that **network interface** is the point of connection between a node an
 
 The <code>NetworkInterface</code> class does not have any constructors. Instead, few static methods are provided to 
 return an instance of the <code>NetworkInterface</code> class: 
-
-<code>getByInetAddress</code>: This is used if the IP address is known
-<br>
-<code>getByName</code>: Searches for the network interface with the specified name
-<br>
-<code>getByIndex</code>: Get a network interface given its index 
-<br>
-<code>getNetworkInterfaces</code>: Returns all the interfaces on this machine
+- <code>getByInetAddress</code>: This is used if the IP address is known
+- <code>getByName</code>: Searches for the network interface with the specified name
+- <code>getByIndex</code>: Get a network interface given its index 
+- <code>getNetworkInterfaces</code>: Returns all the interfaces on this machine
 
 In this part of the lab, we will be concentration of using the <code>getNetworkInterfaces</code> to obtain and display
 an enumeration of all network interfaces on your machines.
@@ -34,11 +30,8 @@ for (NetworkInterface element : Collections.list(interfaceList)) {
 }
 </code>
     
-<br>
-
-<code>getInetAddresses</code>: Provides a convenient method to return an Enumeration with all or a subset of the InetAddresses bound to this network interface.
-<br>
-An <code>InetAddresses</code> represents an Internet Protocol (IP) address. 
+- <code>getInetAddresses</code>: Provides a convenient method to return an Enumeration with all or a subset of the InetAddresses bound to this network interface.
+- An <code>InetAddresses</code> represents an Internet Protocol (IP) address. 
  
 MAC addresses can be retrieved when needed. The following method returns a string containing the IP address and the MAC address for the <code>NetworkInterface</code> instance. 
 The <code>getHardwareAddress</code> method returns a byte array containing the address and element is a <code>NetworkInterface</code> instance. 
@@ -54,7 +47,7 @@ if (macBuffer != null) {
 
 <br>
 
-<code>InetAddress.getLocalHost</code>: Returns the IP address string in textual presentation.
+- <code>InetAddress.getLocalHost</code>: Returns the IP address string in textual presentation.
 
 ### Task 
 Use the provided information to obtain and display an enumeration of the network interfaces for the current computer. The output will vary depending on the computer used. For a reference, I see the following on my laptop![link layer!](link_layer.png)
