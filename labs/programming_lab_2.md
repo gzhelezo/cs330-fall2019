@@ -13,10 +13,10 @@ Remember that **network interface** is the point of connection between a node an
 The <code>NetworkInterface</code> class does not have any constructors. Instead, few static methods are provided to 
 return an instance of the <code>NetworkInterface</code> class: 
 
-getByInetAddress: This is used if the IP address is known  
-getByName: Searches for the network interface with the specified name 
-getByIndex: Get a network interface given its index 
-getNetworkInterfaces: Returns all the interfaces on this machine
+<code>getByInetAddress</code>: This is used if the IP address is known
+<code>getByName</code>: Searches for the network interface with the specified name
+<code>getByIndex</code>: Get a network interface given its index 
+<code>getNetworkInterfaces</code>: Returns all the interfaces on this machine
 
 In this part of the lab, we will be concentration of using the <code>getNetworkInterfaces</code> to obtain and display
 an enumeration of all network interfaces on your machines.
@@ -52,7 +52,8 @@ if (macBuffer != null) {
 
 <br>
 
-**Task**: Use the provided information to obtain and display an enumeration of the network interfaces for the current computer. The output will vary depending on the computer used. For a reference, I see the following on my laptop![link layer!](link_layer.png)
+### Task 
+Use the provided information to obtain and display an enumeration of the network interfaces for the current computer. The output will vary depending on the computer used. For a reference, I see the following on my laptop![link layer!](link_layer.png)
 
 ### Grading
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
