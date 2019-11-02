@@ -30,7 +30,9 @@ for (NetworkInterface element : Collections.list(interfaceList)) {
     System.out.printf("%-8s  %-32s\n", element.getName(), element.getDisplayName());
 }
 </code>
+
 <br>
+    
 <code>getInetAddresses</code>: Provides a convenient method to return an Enumeration with all or a subset of the InetAddresses bound to this network interface. 
 An <code>InetAddresses</code> represents an Internet Protocol (IP) address. 
  
@@ -47,3 +49,11 @@ if (macBuffer != null) {
 </code>
 
 <code>InetAddress.getLocalHost</code>: Returns the IP address string in textual presentation. 
+
+<br>
+
+**Task**: Use the provided information to obtain and display an enumeration of the network interfaces for the current computer. The output will vary depending on the computer used. For a reference, I see the following on my laptop: 
+
+### Grading
+Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
+ 
