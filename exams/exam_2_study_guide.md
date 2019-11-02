@@ -22,6 +22,9 @@ Exam 2 - Nov 14, 2019
 - Why we have Intra-AS and Inter-AS routing?
 - Know how Traceroute uses ICMP to find path from one host to another. 
 - Make sure you can do both routing algorithms – Link State Algorithms (Dijkstra) and distance vector (Bellman-Ford).
+  - [Dijkstra's Algorithm](../slides/lecture7_network_layer_internet_routing_awnsers.pdf)
+  - [CS360: Bellman-Ford Algorithm](https://ycpcs.github.io/cs360-spring2019/lectures/lecture21.html)
+  - [CS 360: Dijkstra's Algorithm](https://ycpcs.github.io/cs360-spring2019/lectures/lecture22.html)
 
 #### Link Layer
 - Know what services the Data Link Layer provides.
