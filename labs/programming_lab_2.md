@@ -33,6 +33,7 @@ for (NetworkInterface element : Collections.list(interfaceList)) {
     System.out.printf("%-8s  %-32s\n", element.getName(), element.getDisplayName());
 }
 </code>
+    
 <br>
 <code>getInetAddresses</code>: Provides a convenient method to return an Enumeration with all or a subset of the InetAddresses bound to this network interface.
 An <code>InetAddresses</code> represents an Internet Protocol (IP) address. 
