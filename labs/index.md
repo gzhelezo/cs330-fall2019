@@ -14,6 +14,6 @@ This page links to in-class labs.
 > Sept 26 | Reliable Data Transfer | [Lab 4](lab03.html), [Solutions](lab03_sol.html) | Oct 03
 > Oct 01 | Wireshark - TCP: 1-12 | [Lab 5](Wireshark_TCP_v7.0.pdf) | Oct 10
 > Oct 24 | Wireshark - NAT <sup>*</sup> | [Lab 6](Wireshark_NAT_v7.0.pdf) | Nov 05
+> Nov 05 | Link Layer | [Programming Lab 2](programming_lab_2.md) | Nov 19 
 > Nov 07 | Wireshark - Link Layer | [Lab 7](Wireshark_Ethernet_ARP_v7.0.pdf) | Nov 19
-> Nov 07 | Link Layer | [Programming Lab 2](lab02.html) | Nov 19 |
 <sup>*</sup>[wireshark traces](wireshark-traces.zip)
