@@ -39,7 +39,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 10 | Oct 29   | Network Layer: [Routing Algorithms](../slides/lecture7_network_layer_routing_algo.pdf) | CN: 5.1 - 5.2 | 
 > 10 | Oct 31   | Network Layer: [Internet Routing](../slides/lecture7_network_layer_internet_routing.pdf) | CN: 5.3 - 5.4 | 
 > | | | |
-> 11 | Nov 5    | Link Layer: Link Layer Functions| CN: 6.1 - 6.3 | 
+> 11 | Nov 5    | Link Layer: Link Layer [Functions](../slides/lecture8_link_layer.pdf)| CN: 6.1 - 6.3 | 
 > 11 | Nov 7    | Link Layer: Switched LANs, Ethernet | CN: 6.4 - 6.7 | Wireshark Lab - [Ethernet](../labs/Wireshark_Ethernet_ARP_v7.0.pdf)
 > | | | |
 > 12 | Nov 12   | Link Layer | |  
