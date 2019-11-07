@@ -46,6 +46,10 @@ if (macBuffer != null) {
 
 - <code>InetAddress.getLocalHost</code>: Returns the IP address of the local host.
 
+### References 
+- [NetworkInterface](https://docs.oracle.com/javase/8/docs/api/java/net/NetworkInterface.html)
+- [InetAddress](https://docs.oracle.com/javase/8/docs/api/java/net/InetAddress.html)
+
 ### Task 
 Use the provided information to obtain and display an enumeration of the network interfaces for the current computer. The output will vary depending on the computer used. For a reference, I see the following on my laptop![link layer!](link_layer.png)
 
