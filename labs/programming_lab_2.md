@@ -31,7 +31,8 @@ for (NetworkInterface element : Collections.list(interfaceList)) {
 
 - <code>getInetAddresses</code>: Provides a convenient method to return an Enumeration with all or a subset of the InetAddresses bound to this network interface.
 - An <code>InetAddress</code> represents an Internet Protocol (IP) address. 
- 
+- <code>InetAddress.getLocalHost</code>: Returns the IP address of the local host.
+
 MAC addresses can be retrieved when needed. The following method returns a string containing the IP address and the MAC address for the <code>NetworkInterface</code> instance. 
 The <code>getHardwareAddress</code> method returns a byte array containing the address and element is a <code>NetworkInterface</code> instance. 
 ```java
@@ -43,8 +44,6 @@ if (macBuffer != null) {
 } 
 ```
 <br>
-
-- <code>InetAddress.getLocalHost</code>: Returns the IP address of the local host.
 
 ### References 
 - [NetworkInterface](https://docs.oracle.com/javase/8/docs/api/java/net/NetworkInterface.html)
