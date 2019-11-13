@@ -16,4 +16,6 @@ This page links to in-class labs.
 > Oct 24 | Wireshark - NAT <sup>*</sup> | [Lab 6](Wireshark_NAT_v7.0.pdf) | Nov 05
 > Nov 05 | Link Layer | [Programming Lab 2](programming_lab_2.md) | Nov 19 
 > Nov 07 | Wireshark - Link Layer | [Lab 7](Wireshark_Ethernet_ARP_v7.0.pdf) | Nov 19
+
+
 <sup>*</sup>[wireshark traces](wireshark-traces.zip)
