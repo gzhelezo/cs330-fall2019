@@ -18,7 +18,8 @@ All information about the course will be posted here.
 * [Ethics](assign/ethics.md)
 
 ## News
-* **Nov 19** - Programming Lab 2: [Link Layer](labs/programming_lab_2.md)
+* **Nov 27** - Programming Lab 3: [Simple Chat](labs/lab04.html)
+* **Nov 19** - Programming Lab 2: [Link Layer](labs/programming_lab_2.html)
 * **Nov 19** - Lab 7: [Wireshark - Link Layer](labs/Wireshark_Ethernet_ARP_v7.0.pdf) - must use your own capture
 * **Nov 14** - Exam 2, [Study Guide](exams/exam_2_study_guide.md)
 * **Nov 05** - Lab 6: [Wireshark - NAT <sup>*</sup>](labs/Wireshark_NAT_v7.0.pdf) Due
