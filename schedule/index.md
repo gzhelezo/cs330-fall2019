@@ -45,8 +45,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 12 | Nov 12   | Link Layer Ethernet, A Day in the Life | |  
 > 12 | Nov 14   | **Exam 2** | CN: 4.1 - 6.8 |
 > | | | |
-> 13 | Nov 19   | | | 
-> 13 | Nov 21   | | |
+> 13 | Nov 19   | Simple chat – client & server  | | 
+> 13 | Nov 21   | HTTP-based RESTful APIs | |
 > | | | | 
 > 14 | Nov 26   | | |  
 > 14 | Nov 28   | **NO CLASS - Thanksgiving Break** |
