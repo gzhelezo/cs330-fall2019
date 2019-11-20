@@ -48,7 +48,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 13 | Nov 19   | Simple chat – client & server  | | 
 > 13 | Nov 21   | HTTP-based RESTful APIs | |
 > | | | | 
-> 14 | Nov 26   | | |  
+> 14 | Nov 26   | Security in Computer Networks: Cryptography, Encryption | CN: 8.1 - 8.2|  
 > 14 | Nov 28   | **NO CLASS - Thanksgiving Break** |
 > | | | |
 > 15 | Dec 3    | | |
