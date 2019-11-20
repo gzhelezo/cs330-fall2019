@@ -28,10 +28,27 @@ The two methods used to read and write bytes from the channel are also provided.
 
 ### Hints 
 Your client _run_ method may follow the following flow:
+```java
 
-<code>
+public void run() {
+	// Create an IP socket address and a port number
 
-</code>
+	// open a socket channel to the provided IP socket address
+	
+	// Create an input stream scanner 
+
+	// Enter the conversation loop
+	
+		// Receive message from the server
+	
+		// Prompts the user to enter a reply back
+		
+		// Check for terminating string
+		
+		// Send message to the server
+}
+
+```
 
 ### References 
 - [SocketChannel](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/channels/SocketChannel.html)
