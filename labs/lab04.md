@@ -12,7 +12,7 @@ We will be using simple client and server application to pass back and forth sin
 Specifically, you will create a simple version of a chat client handling flexible length messages.  
 
 ### Chat Server
-The chat server was discussed and provided in class. 
+The [chat server](ChatServer.java) was discussed and provided in class. 
 A channel for stream oriented listening socket is open and bounded to a particular port on the host. 
 The first while loop, controls the life cycle of our simple chat server. 
 Once the connection is made, the server enters the server/client correspondence loop – second while loop. 
