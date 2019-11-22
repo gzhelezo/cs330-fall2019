@@ -25,6 +25,7 @@ The two methods used to read and write bytes from the channel are also provided.
 - The client should wait until the message is received, and then will prompt its user for a reply message. 
 - The reply message is sent send back to the server.
 - The client leaves the conversation when a special terminating keyword _ciao_ is entered by the user or received by the server.
+- Capture the chat communication in Wireshark and submit the trace.    
 
 ### Hints 
 Your client _run_ method may follow the following flow:
