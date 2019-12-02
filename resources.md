@@ -77,3 +77,4 @@ Technical Documentation
 - A Border Gateway Protocol 4 (BGP-4): [rfc4271](https://tools.ietf.org/html/rfc4271)
 - Some Internet Architectural Guidelines and Philosophy: [rfc3439](https://tools.ietf.org/html/rfc3439)
 - Internet Standard Subnetting Procedure: [rfc95](https://tools.ietf.org/html/rfc950)
+- The MD5 Message-Digest Algorithm: [rfc1321](https://tools.ietf.org/html/rfc1321)
