@@ -17,6 +17,7 @@ This page links to in-class labs.
 > Nov 05 | Link Layer | [Programming Lab 2](programming_lab_2.md) | Nov 19 
 > Nov 07 | Wireshark - Link Layer | [Lab 7](Wireshark_Ethernet_ARP_v7.0.pdf) | Nov 19
 > Nov 20 | Simple Chat | [Programming Lab 3](lab04.html) | Nov 27
+> Dec 03 | Encrypted Chat | [Programming Lab 4](lab05.md) | Dec 12
 
 - <sup>*</sup>[wireshark traces](wireshark-traces.zip)
 
