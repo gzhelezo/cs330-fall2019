@@ -6,15 +6,15 @@ title: "Programming Lab 4 - Encrypted Chat Server/Client"
 
 # Programming Lab 4 - Encrypted Chat Server/Client   
 
-#### Intend 
+### Intend 
 
-The intend of this exercise is to demonstrate symmetric encryption techniques. We will be using the simple client and server applications from Programming Lab 3, to pass back and forth single line encrypted text messages. 
+The intend of this exercise is to demonstrate symmetric encryption techniques. We will be using the simple client and server applications from Programming Lab 3, to pass back and forth single line encrypted text messages. In this lab, we will be leveraging Advanced Encryption Standard cipher. 
 
-#### Tasks 
+### Tasks 
 - Specifically, you will update the simple client and the server to use a single key to encrypt and decrypt a message.
 - Capture the chat communication in Wireshark and submit the trace.
 
-#### Encrypt 
+### Encrypt 
 
 ```java
 public static String encrypt(String plainText, SecretKey secretKey) throws BadPaddingException, NoSuchPaddingException {
@@ -62,7 +62,10 @@ public static String decrypt(String encryptedText, SecretKey secretKey) throws I
     }
 ```
 
-#### Secret Key
+### Secret Key
+- The shared key is generated and can be found here - [symmetrickey.jks](symmetrickey.jks).
+- The following snippet will extract it from your project folder. 
+
 ```java
     private static SecretKey getSecretKey() throws UnrecoverableEntryException {
         SecretKey secretKey = null;
@@ -97,6 +100,6 @@ public static String decrypt(String encryptedText, SecretKey secretKey) throws I
     }
 ```
 
-#### Grading
+### Grading
 
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
