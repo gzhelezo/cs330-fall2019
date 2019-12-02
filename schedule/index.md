@@ -39,7 +39,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 10 | Oct 29   | Network Layer: [Routing Algorithms](../slides/lecture7_network_layer_routing_algo.pdf) | CN: 5.1 - 5.2 | 
 > 10 | Oct 31   | Network Layer: [Internet Routing](../slides/lecture7_network_layer_internet_routing.pdf) | CN: 5.3 - 5.4 | 
 > | | | |
-> 11 | Nov 5    | Link Layer: Link Layer: [Functions](../slides/lecture8_link_layer.pdf)| CN: 6.1 - 6.3 | 
+> 11 | Nov 5    | Link Layer: [Link Layer: Functions](../slides/lecture8_link_layer.pdf)| CN: 6.1 - 6.3 | 
 > 11 | Nov 7    | Link Layer: ARP, Switched LANs | CN: 6.4 - 6.5 | Wireshark Lab - [Ethernet](../labs/Wireshark_Ethernet_ARP_v7.0.pdf)
 > | | | |
 > 12 | Nov 12   | Link Layer Ethernet, A Day in the Life | |  
@@ -51,7 +51,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 14 | Nov 26   | Security in Computer Networks: [Cryptography, Encryption](../slides/lecture9_network_security_principles.pdf) | CN: 8.1 - 8.2|  
 > 14 | Nov 28   | **NO CLASS - Thanksgiving Break** |
 > | | | |
-> 15 | Dec 3    | | |
+> 15 | Dec 3    | Security in Computer Networks: [Authentication, Digital Signatures](../slides/lecture9_network_security_integrity.pdf)| CN: 8.3 - 8.6 |
 > 15 | Dec 5    | | |
 > | | | |
 > 16 | Dec 10   | Exam Review | CN: 1.1 - 8.10 |
