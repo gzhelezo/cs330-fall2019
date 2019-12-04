@@ -52,7 +52,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 14 | Nov 28   | **NO CLASS - Thanksgiving Break** |
 > | | | |
 > 15 | Dec 3    | Security in Computer Networks: [Authentication, Digital Signatures](../slides/lecture9_network_security_integrity.pdf)| CN: 8.3 - 8.6 |
-> 15 | Dec 5    | | |
+> 15 | Dec 5    | Security in Computer Networks: [Firewalls and IDS](../slides/lecture9_network_security_firewalls.pdf) | CN: 8.7 - 8.10 | |
 > | | | |
 > 16 | Dec 10   | Exam Review | CN: 1.1 - 8.10 |
 > 16 | Dec 12   | **FINAL EXAM** | |
@@ -70,7 +70,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 12 | Nov 12   | **Exam 2** | CN: 4.1 - 6.8 | | | 
 > 12 | Nov 14   | Security in Computer Networks: Cryptography, Encryption | CN: 8.1 - 8.3 | 
 > 13 | Nov 19   | Security in Computer Networks: Authentication, Digital Signatures | CN: 8.3 - 8.6 | 
-> 13 | Nov 21   | Security in Computer Networks: VPNs, Firewalls and IDS | CN: 8.7 - 8.10 | Wireshark Lab - SSL
+> 13 | Nov 21   | Security in Computer Networks: Firewalls and IDS | CN: 8.7 - 8.10 | Wireshark Lab - SSL
 > 14 | Nov 26   | | | 
 > 14 | Nov 28   | **NO CLASS - Thanksgiving Break** | |
 > 15 | Dec 3    | | |
