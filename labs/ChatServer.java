@@ -59,7 +59,7 @@ public class ChatServer {
                         System.out.println("Response: " + response);
                     }
                 }
-
+                break;
             }
         } catch (Exception ex) {
             System.out.println(ex.getMessage());
