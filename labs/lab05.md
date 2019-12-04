@@ -8,11 +8,13 @@ title: "Programming Lab 4 - Encrypted Chat Server/Client"
 
 #### Intend 
 
-The intend of this exercise is to demonstrate symmetric encryption techniques. We will be using the simple client and server applications from Programming Lab 3, to pass back and forth single line encrypted text messages. In this lab, we will be leveraging Advanced Encryption Standard cipher.
+The intend of this exercise is to demonstrate symmetric encryption techniques. We will be using the simple client and server applications from Programming Lab 3*, to pass back and forth single line encrypted text messages. In this lab, we will be leveraging Advanced Encryption Standard cipher.
+
+<i>*</i> If you did not complete Programming Assignment 3, let me know.
 
 #### Tasks 
 - Specifically, you will update the simple client and the server to use a single key to encrypt and decrypt a message.
-- Capture the chat communication in Wireshark and submit the trace.
+- Capture the chat communication in Wireshark and submit the trace. 
 
 #### Encrypt 
 
