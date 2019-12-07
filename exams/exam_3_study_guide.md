@@ -65,12 +65,13 @@ Exam 3 - Dec 12, 2019 @ 7:00 PM - 9:00 PM
 
 #### Network Security 
 - Symmetric and Asymmetric Key Cryptography 
-- Review Digital Signatures and End to End Authentication 
+- Review Digital Signatures, message integrity and End Point Authentication 
 - Initialization Vector (IV) when using cipher block chaining?
 - What is a nounce?
 - What type of attack can be used against a Diﬃe-Hellman key exchange?
 - Why might a network administrator distribute multiple IDS sensors throughout a network instead of using a single device?  
 - Know the difference between a stateless ﬁrewall and a stateful ﬁrewall.
+- What is a cryptographic hash function and its properties?
 
 
 Exams
