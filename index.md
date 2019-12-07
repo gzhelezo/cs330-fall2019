@@ -18,7 +18,7 @@ All information about the course will be posted here.
 * [Ethics](assign/ethics.md)
 
 ## News
-* **Dec 12** - Final Exam @ 7:00 PM - 9:00 PM
+* **Dec 12** - Final Exam @ 7:00 PM - 9:00 PM, [Study Guide](exams/exam_3_study_guide.md)
 * **Dec 12** - Programming Lab 4: [Encrypted Chat](labs/lab05.html)
 * **Nov 27** - Programming Lab 3: [Simple Chat](labs/lab04.html)
 * **Nov 19** - Programming Lab 2: [Link Layer](labs/programming_lab_2.html)
