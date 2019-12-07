@@ -7,8 +7,9 @@ title: "Exam 3 - Study Guide"
 Exam 3 - Dec 12, 2019 @ 7:00 PM - 9:00 PM
 -----------------------
 
-#### Study Guide:
- - Study circuit and packet switching.   
+#### Computer Network and the Internet, Application & Transport Layes
+
+  - Study circuit and packet switching.   
   - Know the types of delays in routers. 
   - Know packet loss.
   - Know what TCP/IP Model layers are used by different computer/network devices. Review network slides and figures in textbook. 
@@ -61,6 +62,16 @@ Exam 3 - Dec 12, 2019 @ 7:00 PM - 9:00 PM
 - Know key functions of switches. 
 - Know differences between switched and bus-based Ethernet.
 - Know how to build ARP and switch tables. 
+
+#### Network Security 
+- Symmetric and Asymmetric Key Cryptography 
+- Review Digital Signatures and End to End Authentication 
+- Initialization Vector (IV) when using cipher block chaining?
+- What is a nounce?
+- What type of attack can be used against a Diﬃe-Hellman key exchange?
+- Why might a network administrator distribute multiple IDS sensors throughout a network instead of using a single device?  
+- Know the difference between a stateless ﬁrewall and a stateful ﬁrewall.
+
 
 Exams
 -----------------
