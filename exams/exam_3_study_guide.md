@@ -7,7 +7,32 @@ title: "Exam 3 - Study Guide"
 Exam 3 - Dec 12, 2019 @ 7:00 PM - 9:00 PM
 -----------------------
 
-### Study Guide:
+#### Study Guide:
+ - Study circuit and packet switching.   
+  - Know the types of delays in routers. 
+  - Know packet loss.
+  - Know what TCP/IP Model layers are used by different computer/network devices. Review network slides and figures in textbook. 
+  - Know the layers of the TCP/IP network model used in switches, routers and computer hosts. 
+  - Know the difference between a dedicated link (Verizon) and shared link (Comcast) to an ISP.
+  - Know different security attacks and malware. 
+  - Know the advantages and disadvantages of client-server and peer-to-peer networks. 
+  - Know what is a socket. Study slides and textbook.
+  - Know about secure sockets layer (SSL), TCP and UDP services. 
+  - Know about cookies. 
+  - Know about file transfer protocol (FTP). Specifically in-band and out of band.   
+  - Know the benefits of single and distributed DNS servers. 
+  - Know the common protocol and ports for: dns, dns secure, ftp, http, http secure, imap, imap secure, pop3, pop3 secure, smtp, smtp secure:
+    - HTTP: 80
+    - HTTPS: 443
+    - DNS: 53
+    - DNS (Secure): 853 
+    - FTP: 20/21
+    - SMTP: 25
+    - SMTP (Secure): 465
+    - POP3: 110
+    - POP3 (Secure): 995
+    - IMAP: 143
+    - IMAP (Secure): 993
 
 #### Network Layer
 - Understand what services are provided by the Network Layer Protocol.
