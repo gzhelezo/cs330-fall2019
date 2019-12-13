@@ -54,7 +54,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 15 | Dec 3    | Security in Computer Networks: [Authentication, Digital Signatures](../slides/lecture9_network_security_integrity.pdf)| CN: 8.3 - 8.6 |
 > 15 | Dec 5    | Security in Computer Networks: [Firewalls and IDS](../slides/lecture9_network_security_firewalls.pdf) | CN: 8.7 - 8.10 | |
 > | | | |
-> 16 | Dec 10   | In class lab - UDP Multicast & Broadcast | |
+> 16 | Dec 10   | In class lab - UDP: Multicast & Broadcast | |
 > 16 | Dec 12   | **FINAL EXAM** | CN: 1.1 - 8.10 |
 
 <!--
