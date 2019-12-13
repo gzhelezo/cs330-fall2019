@@ -45,8 +45,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 12 | Nov 12   | Link Layer Ethernet, A Day in the Life | |  
 > 12 | Nov 14   | **Exam 2** | CN: 4.1 - 6.8 |
 > | | | |
-> 13 | Nov 19   | Simple chat – client & server  | | 
-> 13 | Nov 21   | HTTP-based RESTful APIs | |
+> 13 | Nov 19   | In class lab - chat: client & server  | | 
+> 13 | Nov 21   | In class lab - HTTP-based RESTful APIs | |
 > | | | | 
 > 14 | Nov 26   | Security in Computer Networks: [Cryptography, Encryption](../slides/lecture9_network_security_principles.pdf) | CN: 8.1 - 8.2|  
 > 14 | Nov 28   | **NO CLASS - Thanksgiving Break** |
@@ -54,8 +54,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 15 | Dec 3    | Security in Computer Networks: [Authentication, Digital Signatures](../slides/lecture9_network_security_integrity.pdf)| CN: 8.3 - 8.6 |
 > 15 | Dec 5    | Security in Computer Networks: [Firewalls and IDS](../slides/lecture9_network_security_firewalls.pdf) | CN: 8.7 - 8.10 | |
 > | | | |
-> 16 | Dec 10   | Exam Review | CN: 1.1 - 8.10 |
-> 16 | Dec 12   | **FINAL EXAM** | |
+> 16 | Dec 10   | In class lab - UDP Multicast & Broadcast | |
+> 16 | Dec 12   | **FINAL EXAM** | CN: 1.1 - 8.10 |
 
 <!--
 > 7  | Oct 10   | Network Layer: Overview, Router Architectures | CN: 4.1 - 4.3 |
