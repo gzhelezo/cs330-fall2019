@@ -15,7 +15,7 @@ Class times:
 
 Instructor:
 
-Galin Zhelezov, <gzhelezo@ycp.edu>, <br /> Office hours: T 8:45PM-9:15PM; R 8:45PM-9:15PM; or by appointment
+Galin Zhelezov, <gzhelezo@ycp.edu>, <br /> Office hours: T 8:45PM-9:15PM in KEC 123; R 8:45PM-9:15PM in KEC 123; or by appointment
 
 Course Description
 ------------------
@@ -77,7 +77,7 @@ Please check the course web page, <https://ycpcs.github.io/cs330-fall2019/>, reg
 Reading assignments
 -----------------
 
-Readings from your text book will be assigned throughout the semester. You will find the readings listed in the Course Schedule</a>. <strong>You are encouraged to read the scheduled material before coming to class.</strong>
+Readings from your text book will be assigned throughout the semester. You will find the readings listed in the Course Schedule. <strong>You are encouraged to read the scheduled material before coming to class.</strong>
 
 
 Homework Assignments
